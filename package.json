@@ -47,6 +47,6 @@
     "simple-sentiment-lib": "^1.1.8",
     "smsalert": "^1.0.1",
     "typescript": "^4.6.3",
-    "xlsx": "^0.16.9"
+    "xlsx": "^0.18.5"
   }
 }
