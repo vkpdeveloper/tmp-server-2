@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invoice #<%= order.id %>
+    </title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <style>
+        * {
+            padding: 0;
+            box-sizing: 0;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 80%;
+        }
+
+        body {
+            margin: 20px 20px;
+        }
+
+        #header {
+            background-color: #ff8836;
+            width: 100%;
+            height: 40px;
+            display: flex;
+            justify-content: space-around;
+            color: white;
+            align-items: center;
+        }
+
+        #header span {
+            font-size: 16px;
+        }
+
+        p {
+            font-size: 14px;
+        }
+
+        #panels {
+            width: 100vw;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        #panels img {
+            margin-right: 10rem;
+            margin-top: 20px;
+            height: 100px;
+            width: 150px;
+        }
+
+        #panels .left-panel {
+            margin-top: 20px;
+            margin-left: 10px;
+            width: 100%;
+        }
+
+        #panels .right-panel {
+            width: 100%;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: flex-start;
+
+        }
+
+        .concern-message {
+            padding: 5px;
+            background-color: rgb(189, 186, 186);
+            border-color: #0062bd;
+            border-style: dashed;
+            width: 70%
+        }
+
+        .concern-message p {
+            font-size: 10px;
+        }
+
+        .hori-table {
+            display: flex;
+
+        }
+
+        .hori-table .left-gray-box {
+            padding: 0px 3px;
+            border: 1px #0062bd solid;
+            background-color: #0062bd;
+            border-bottom-color: white;
+            width: 140px;
+        }
+
+        .hori-table .left-gray-box p {
+            color: white;
+        }
+
+        .hori-table .right-white-box {
+            padding: 0px 3px;
+            border: 1px #0062bd solid;
+            width: 150px;
+        }
+
+        .hori-table p {
+            font-size: 14px;
+        }
+
+        table {
+            margin-left: 10px;
+            margin-top: 20px;
+
+        }
+
+        table tr th {
+            margin: 0;
+            padding: 0;
+            background-color: #0062bd;
+            padding: 5px;
+            font-weight: normal;
+            border: 1px #0062bd solid;
+            padding-top: 0;
+            padding-bottom: 0;
+
+        }
+
+        table tr th p {
+            color: white;
+        }
+
+        .footer {
+            background-color: #0062bd;
+            height: 50px;
+            width: 100%;
+            display: flex;
+            justify-content: flex-end;
+        }
+
+        .footer p {
+            color: white;
+            padding-right: 10px;
+        }
+
+        .total-invoice {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        table tr td {
+            text-align: center;
+        }
+
+        table tr td p {
+            color: black;
+        }
+
+        .hori-table-last {
+            border: none;
+        }
+    </style>
+    <!-- <div id="header"><span>O</span><span>R</span><span>I</span></div> -->
+    <div id="panels">
+        <div class="left-panel">
+            <p style="margin-top: 10px; font-weight: bold;">Bill to/Ship to:</p>
+            <p>
+                <%= user.first_name %>
+                    <%= user.last_name %>
+            </p>
+            <p class="address">
+                <%= order.address.address %>
+            </p>
+            <div>
+                <div class="hori-table">
+                    <div class="left-gray-box">
+                        <p>Order Id</p>
+                    </div>
+                    <div class="right-white-box">
+                        <p>SB-<%= order.id %>
+                        </p>
+                    </div>
+                </div>
+                <div class="hori-table">
+                    <div class="left-gray-box">
+                        <p>Invoice Number</p>
+                    </div>
+                    <div class="right-white-box">
+                        <p><%=order.inv_no %>
+                        </p>
+                    </div>
+                </div>
+                <div class="hori-table">
+                    <div class="left-gray-box">
+                        <p>Slot</p>
+                    </div>
+                    <div class="right-white-box">
+                        <p>
+                            <%=order.date_time%>
+                        </p>
+                    </div>
+                </div>
+                <div class="hori-table">
+                    <div class="left-gray-box">
+                        <p>Final Total</p>
+                    </div>
+                    <div class="right-white-box">
+                        <p>₹ <%=order.grand_total%>
+                        </p>
+                    </div>
+                </div>
+                <div class="hori-table">
+                    <div class="left-gray-box">
+                        <p>Payment By</p>
+                    </div>
+                    <div class="right-white-box">
+                        <p>
+                            <%=order.paid_method.toUpperCase()%>
+                        </p>
+                    </div>
+                </div>
+                <div class="hori-table">
+                    <div class="left-gray-box" style="border-bottom: none">
+                        <p>No. of Items</p>
+                    </div>
+                    <div class="right-white-box">
+                        <p>
+                            <%=order.orders.length%>
+                        </p>
+                    </div>
+                </div>
+                <div class="hori-table">
+                    <div class="left-gray-box" style="border-bottom: none">
+                        <p>Order Date</p>
+                    </div>
+                    <div class="right-white-box">
+                        <p>
+                            <%=order.notes[0].time%>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="right-panel">
+            <img src="/logo-small.jpg" />
+            <h3 style="font-size: 20px; color: #0062bd">Sampurna-Bazaar.com</h3>
+            <div style="width: 60%; color: #0062bd">
+                <p>Varada Innovations Pvt Ltd
+                    255, 2nd Floor, 8th Cross, 4th Phase,
+                    Peenya industrial area, Above ICICI
+                    Bank, Ganapathi Nagar
+                    Bangalore, KA, 560058
+                    India</p>
+            </div>
+            <p style="color: #0062bd"><br />Tel.: 080-29630143 <br /> GST No.: 29AAGCV4950P2ZG</p>
+
+        </div>
+    </div>
+    <table style="width:100%">
+        <tr>
+            <th>
+                <p>Sl No</p>
+            </th>
+            <th>
+                <p>Item Description</p>
+            </th>
+            <th>
+                <p>HSN Code/SAC</p>
+            </th>
+            <th>
+                <p>Quantity</p>
+            </th>
+            <th>
+                <p>Unit Price</p>
+            </th>
+            <th>
+                <p>GST %</p>
+            </th>
+            <!-- <th>
+                <p>Gross Value*</p>
+            </th> -->
+            <!-- <th>
+                <p>Discount, if any*</p>
+            </th> -->
+          
+            <th>
+                <p>CGST</p>
+            </th>
+            <th>
+                <p>SGST</p>
+            </th>
+            <th>
+                <p>Unit Tax</p>
+            </th>
+            <th>
+                <p>Total Price</p>
+            </th>
+        </tr>
+        <% for (let singleOrder of order.orders) { %>
+            <tr>
+                <td>
+                    <p>
+                        <%=singleOrder.id %>
+                    </p>
+                </td>
+                <td>
+                    <p>
+                        <%=singleOrder.name %>
+                    </p>
+                </td>
+                <td>
+                    <p>
+                        <%=singleOrder.hsn_code %>
+                    </p>
+                </td>
+                <td>
+                    <p>
+                        <%=singleOrder.quantiy %>
+                    </p>
+                </td>
+                <td>
+                    <p>
+                        <% if (singleOrder.tax_class == 0){ %>
+                            <% if (singleOrder.variations.length> 0) { %>
+                            <p>
+                                <%=singleOrder.variations[0].items[singleOrder.variant].discount - singleOrder.variations[0].items[singleOrder.variant].discount * (singleOrder.tax_class/100)%>.00
+                            </p>
+                            <%} else { %>
+                                <p>
+                                    <%=(singleOrder.sell_price - (singleOrder.sell_price * (singleOrder.tax_class/100))).toFixed(2)%>
+                                </p>
+                                <% } %>
+                        <% } else { %>
+                             <% if (singleOrder.variations.length> 0) { %>
+                                <p>
+                                     <%=singleOrder.variations[0].items[singleOrder.variant].discount - singleOrder.variations[0].items[singleOrder.variant].discount * (singleOrder.tax_class/100)%>.00
+                                 </p>
+                                 <%} else { %>
+                                <p>
+                                     <%=((singleOrder.sell_price)/(1+singleOrder.tax_class/100)).toFixed(2)%>
+                                </p>
+                                    <% } %>
+                                <% } %>
+                    </p>
+                </td>
+                <td>
+                    <p>
+                        <%=singleOrder.tax_class %>%
+                    </p>
+                </td>
+                <!-- <td>
+                    <p>49</p>
+                </td> -->
+                <!-- <td>
+                    <p>
+                        <%=singleOrder.discount %>%
+                    </p>
+                </td> -->
+            
+                <td>
+                    <p>
+                        <%= singleOrder.tax_class / 2 %>%
+                    </p>
+                </td>
+                <td>
+                    <p>
+                        <%= singleOrder.tax_class / 2 %>%
+                    </p>
+                </td>
+                <td>
+                    <p>
+                        <% if (singleOrder.variations.length> 0) { %>
+                            <p>
+                                <%=(singleOrder.variations[0].items[singleOrder.variant].discount * (singleOrder.tax_class/100)).toFixed(2)%>
+                            </p>
+                            <%} else { %>
+                                <p>
+                                    <%=(singleOrder.sell_price - (singleOrder.sell_price)/(1+singleOrder.tax_class/100)).toFixed(2)%>
+                                </p>
+                                <% } %>
+                    </p>
+                </td>
+                <td>
+                    <p>
+                        <% if (singleOrder.variations.length> 0) { %>
+                            <p>
+                                <%=Math.round(singleOrder.variations[0].items[singleOrder.variant].discount *
+                                    singleOrder.quantiy)%>.00
+                            </p>
+                            <%} else { %>
+                                <p>
+                                    <%=Math.round(singleOrder.sell_price * singleOrder.quantiy)%>.00
+                                </p>
+                                <% } %>
+                    </p>
+                </td>
+            </tr>
+            <% } %>
+
+
+    </table>
+
+    <% if (order.coupon_code) { %>
+        <div class="footer">
+        <p>Coupon Code : -Rs. <%=order.coupon_code.value%>.00 (INR)
+        </p>
+        </div>
+        <hr />
+        <%}%>
+
+
+
+            <div class="footer">
+                <p>Delivery Charge : Rs. <%=order.delivery_charge%>.00 (INR)
+                </p>
+            </div>
+            <hr />
+            <div class="footer">
+                <p>Total : Rs. <%=order.grand_total%>.00 (INR)
+                </p>
+            </div>
+            <p>Includes GST* component</p>
+            <div class="total-invoice">
+                <p>Total invoice value (in Figure): Rs. <%=order.grand_total%> (INR)
+                </p>
+            </div>
+            <div class="footer" style="background-color: white;">
+                <p>Signature</p>
+            </div>
+            <div class="total-invoice">
+                <p>As per Section 31 of CGST Act read with Rules invoice is issued at the point of delivering the goods.
+                </p>
+            </div>
+
+</body>
+
+</html>

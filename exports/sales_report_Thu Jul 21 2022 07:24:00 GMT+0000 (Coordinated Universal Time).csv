@@ -1,0 +1,504 @@
+Order ID,Invoice Number,User ID,User Name,User Email,User Phone,Payment Method,Address,Grand total,Delivery charge,Coupon code,Order status,Orderd Date,Order Accepted Date
+52,52,56,Manjunath M,manjunath.2982@gmail.com,9986257842,razorpay,Manjunath M,313,49,Not Used,Delivered,"Jan 16, 2021 4:57 PM","Jan 16, 2021 4:57 PM"
+53,53,53,Saurabh Markale,saurabh.markale@gmail.com,9987787421,razorpay,"Varada Innovation Pvt Ltd, 2nd floor, 255, ",341,49,Not Used,Delivered,"Jan 18, 2021 12:01 PM",No date
+54,54,106,uday kumar,kaikalaudayakumar@gmail.com,9100729062,razorpay,Varada innovation Pvt Ltd,1024,0,Not Used,Delivered,"Jan 18, 2021 12:35 PM",No date
+55,55,102,Praveen ,praveen.gupta@varada.ooo,9008484770,razorpay,"Jalahalli West, Bangalore",1858,0,Not Used,Delivered,"Jan 19, 2021 7:42 AM",No date
+56,56,105,Priyamvada Jha,priyamvadajha1@gmail.com,9008500206,razorpay,Princetown,764,0,Not Used,Delivered,"Jan 19, 2021 10:23 PM",No date
+57,57,102,Praveen ,praveen.gupta@varada.ooo,9008484770,razorpay,"Jalahalli West, Bangalore",1427,0,Not Used,Delivered,"Jan 25, 2021 10:33 AM",No date
+58,58,53,Saurabh Markale,saurabh.markale@gmail.com,9987787421,razorpay,"Varada Innovation Pvt Ltd, 2nd floor, 255, ",499,49,Not Used,Delivered,"Jan 26, 2021 1:10 PM",No date
+59,59,102,Praveen ,praveen.gupta@varada.ooo,9008484770,razorpay,"Jalahalli West, Bangalore",998,0,Not Used,Delivered,"Jan 27, 2021 8:46 AM",No date
+60,60,106,uday kumar,kaikalaudayakumar@gmail.com,9100729062,razorpay,Varada innovation Pvt Ltd,1269,0,Not Used,Delivered,"Jan 27, 2021 8:46 AM",No date
+61,61,102,Praveen ,praveen.gupta@varada.ooo,9008484770,razorpay,"Jalahalli West, Bangalore",1188,0,Not Used,Delivered,"Feb 1, 2021 8:46 AM",No date
+62,0,48,Harsh Kumar,harsh@varada.ooo,9588929079,razorpay,Platinum city,614,0,HAROFF001,Delivered,"Feb 1, 2021 5:51 PM",No date
+63,63,132,Ritu Priya,kumariritupriyajmt@gmail.com,6207451876,razorpay,Platinum City,902,0,HAROFF002,Delivered,"Feb 4, 2021 4:40 PM","Feb 4, 2021 4:40 PM"
+64,64,102,Praveen ,praveen.gupta@varada.ooo,9008484770,razorpay,"Jalahalli West, Bangalore",1493,0,Not Used,Delivered,"Feb 7, 2021 9:17 AM","Feb 7, 2021 9:17 AM"
+65,65,138,Gayathri Madhu,gayathrihp3520@gmail.com,9148855588,razorpay,Beera Devara gudi lane,1006,0,MANOFF001,Delivered,"Feb 7, 2021 3:15 PM","Feb 7, 2021 3:15 PM"
+66,66,106,uday kumar,kaikalaudayakumar@gmail.com,9100729062,razorpay,Varada innovation Pvt Ltd,727,0,Not Used,Delivered,"Feb 9, 2021 6:15 PM","Feb 9, 2021 6:15 PM"
+67,67,147,Hemavathi ,manjunathnew.blrq@gmail.com,9742554818,razorpay,Cholur palya main road,1072,0,MANOFF002,Delivered,"Feb 10, 2021 10:27 AM","Feb 10, 2021 10:27 AM"
+68,68,157,Aabha ,ibsaabha@gmail.com,9845037012,razorpay,"1& 2 Shettihalli cross , Jalahalli West ",1279,0,Not Used,Delivered,"Feb 19, 2021 12:04 AM","Feb 19, 2021 12:04 AM"
+69,69,157,Aabha ,ibsaabha@gmail.com,9845037012,razorpay,"1& 2 Shettihalli cross , Jalahalli West ",957,0,Not Used,Delivered,"Feb 22, 2021 10:22 AM","Feb 22, 2021 10:22 AM"
+70,0,157,Aabha ,ibsaabha@gmail.com,9845037012,razorpay,"1& 2 Shettihalli cross , Jalahalli West ",87,0,Not Used,Refunded,"Feb 22, 2021 10:22 AM",No date
+71,71,162,laveena ,ucc.laveenabalani@gmail.com,8442040725,cod,chikksandra ,600,29,Not Used,Delivered,"Feb 25, 2021 6:34 PM","Feb 25, 2021 6:34 PM"
+72,72,157,Aabha ,ibsaabha@gmail.com,9845037012,razorpay,"1& 2 Shettihalli cross , Jalahalli West ",1587,0,Not Used,Delivered,"Mar 1, 2021 10:34 AM","Mar 1, 2021 10:34 AM"
+73,73,106,uday kumar,kaikalaudayakumar@gmail.com,9100729062,razorpay,Varada innovation Pvt Ltd,1623,0,Not Used,Delivered,"Mar 2, 2021 3:38 PM","Mar 2, 2021 3:38 PM"
+74,74,132,Ritu Priya,kumariritupriyajmt@gmail.com,6207451876,razorpay,O Block,594,0,Not Used,Delivered,"Mar 3, 2021 7:38 PM","Mar 3, 2021 7:38 PM"
+75,0,132,Ritu Priya,kumariritupriyajmt@gmail.com,6207451876,razorpay,O Block,63,0,Not Used,Refunded,"Mar 4, 2021 10:53 AM",No date
+76,75,132,Ritu Priya,kumariritupriyajmt@gmail.com,6207451876,sodexo,O Block,249,49,Not Used,Delivered,"Mar 5, 2021 4:02 PM","Mar 5, 2021 4:02 PM"
+77,0,132,Ritu Priya,kumariritupriyajmt@gmail.com,6207451876,sodexo,O Block,68,0,Not Used,Refunded,"Mar 5, 2021 6:31 PM",No date
+78,76,157,Aabha ,ibsaabha@gmail.com,9845037012,razorpay,"1& 2 Shettihalli cross , Jalahalli West ",1147,0,Not Used,Delivered,"Mar 7, 2021 3:31 PM","Mar 7, 2021 3:31 PM"
+80,77,56,Manjunath M,manjunath.2982@gmail.com,9986257842,razorpay,Manjunath M,659,0,Not Used,Delivered,"Mar 8, 2021 11:07 AM","Mar 8, 2021 11:07 AM"
+81,0,56,Manjunath M,manjunath.2982@gmail.com,9986257842,razorpay,Manjunath M,38,0,Not Used,Refunded,"Mar 8, 2021 12:16 PM",No date
+82,78,157,Aabha ,ibsaabha@gmail.com,9845037012,razorpay,"1& 2 Shettihalli cross , Jalahalli West ",886,0,Not Used,Delivered,"Mar 9, 2021 04:38 PM",No date
+83,79,157,Aabha ,ibsaabha@gmail.com,9845037012,razorpay,"1& 2 Shettihalli cross , Jalahalli West ",876,0,Not Used,Delivered,"Mar 11, 2021 11:45 PM","Mar 11, 2021 11:45 PM"
+95,80,157,Aabha ,ibsaabha@gmail.com,9845037012,razorpay,"1& 2 Shettihalli cross , Jalahalli West ",819,0,Not Used,Delivered,"Mar 12, 2021 6:30 AM","Mar 12, 2021 6:30 AM"
+105,81,106,uday kumar,kaikalaudayakumar@gmail.com,9100729062,razorpay,Varada innovation Pvt Ltd,911,0,Not Used,Delivered,"Mar 15, 2021 10:53 AM","Mar 15, 2021 10:53 AM"
+110,82,157,Aabha ,ibsaabha@gmail.com,9845037012,razorpay,"1& 2 Shettihalli cross , Jalahalli West ",1125,0,Not Used,Delivered,"Mar 15, 2021 3:49 PM","Mar 15, 2021 3:49 PM"
+111,83,172,chandru ,chandrukishan2@gmail.com,9972628149,razorpay,Brundhavan Nagar,941,0,SUROFF001,Delivered,"Mar 15, 2021 4:59 PM","Mar 15, 2021 4:59 PM"
+114,0,172,chandru ,chandrukishan2@gmail.com,9972628149,razorpay,Brundhavan Nagar,58,0,Not Used,Refunded,"Mar 16, 2021 9:44 AM",No date
+121,84,157,Aabha ,ibsaabha@gmail.com,9845037012,razorpay,"1& 2 Shettihalli cross , Jalahalli West ",1602,0,Not Used,Delivered,"Mar 20, 2021 8:05 AM","Mar 20, 2021 8:05 AM"
+122,85,147,Hemavathi ,manjunathnew.blrq@gmail.com,9742554818,razorpay,Cholur palya main road,935,0,MANOFF003,Delivered,"Mar 20, 2021 11:10 PM","Mar 20, 2021 11:10 PM"
+123,86,132,Ritu Priya,kumariritupriyajmt@gmail.com,6207451876,razorpay,O Block,330,29,Not Used,Delivered,"Mar 21, 2021 9:58 AM","Mar 21, 2021 9:58 AM"
+125,87,178,srikanth rao,hsrikanthrao@gmail.com,8553874184,sodexo,Sobha Garrison,714,0,Not Used,Delivered,"Mar 24, 2021 12:29 PM","Mar 24, 2021 12:29 PM"
+126,88,132,Ritu Priya,kumariritupriyajmt@gmail.com,6207451876,razorpay,O Block,665,0,Not Used,Delivered,"Mar 24, 2021 12:32 PM","Mar 24, 2021 12:32 PM"
+128,89,106,uday kumar,kaikalaudayakumar@gmail.com,9100729062,razorpay,Varada innovation Pvt Ltd,1315,0,Not Used,Delivered,"Mar 25, 2021 1:27 PM","Mar 25, 2021 1:27 PM"
+129,90,157,Aabha ,ibsaabha@gmail.com,9845037012,razorpay,"1& 2 Shettihalli cross , Jalahalli West ",1205,0,Not Used,Delivered,"Mar 26, 2021 11:38 PM","Mar 26, 2021 11:38 PM"
+130,91,102,Praveen ,praveen.gupta@varada.ooo,9008484770,razorpay,"Jalahalli West, Bangalore",777,0,Not Used,Delivered,"Mar 27, 2021 9:03 AM","Mar 27, 2021 9:03 AM"
+131,0,157,Aabha ,ibsaabha@gmail.com,9845037012,razorpay,"1& 2 Shettihalli cross , Jalahalli West ",154,0,Not Used,Refunded,"Mar 26, 2021 11:38 PM","Mar 26, 2021 11:38 PM"
+132,93,132,Ritu Priya,kumariritupriyajmt@gmail.com,6207451876,razorpay,O Block,984,0,HAROFF005,Delivered,"Mar 28, 2021 10:30 AM","Mar 28, 2021 10:30 AM"
+133,94,102,Praveen ,praveen.gupta@varada.ooo,9008484770,razorpay,"Jalahalli West, Bangalore",1553,0,Not Used,Delivered,"Mar 29, 2021 1:44 PM","Mar 29, 2021 1:44 PM"
+139,95,157,Aabha ,ibsaabha@gmail.com,9845037012,razorpay,"1& 2 Shettihalli cross , Jalahalli West ",1133,0,Not Used,Delivered,"Apr 4, 2021 9:33 AM","Apr 4, 2021 9:33 AM"
+140,0,157,Aabha ,ibsaabha@gmail.com,9845037012,razorpay,"1& 2 Shettihalli cross , Jalahalli West ",218,0,Not Used,Refunded,"Apr 4, 2021 9:33 AM","Apr 4, 2021 9:33 AM"
+141,96,106,uday kumar,kaikalaudayakumar@gmail.com,9100729062,razorpay,Varada innovation Pvt Ltd,1404,0,Not Used,Delivered,"Apr 6, 2021 11:42 AM","Apr 6, 2021 11:42 AM"
+142,97,157,Aabha ,ibsaabha@gmail.com,9845037012,razorpay,"1& 2 Shettihalli cross , Jalahalli West ",1289,0,Not Used,Delivered,"Apr 7, 2021 10:53 PM","Apr 7, 2021 10:53 PM"
+143,98,46,VIPL Ltd,vipl@sampurna-bazaar.com,999999999,cod,Ganpati Nagar,2389,0,Not Used,Delivered,"Apr 9, 2021 5:45 PM","Apr 9, 2021 5:45 PM"
+144,99,157,Aabha ,ibsaabha@gmail.com,9845037012,razorpay,"1& 2 Shettihalli cross , Jalahalli West ",1361,0,Not Used,Delivered,"Apr 11, 2021 11:44 PM","Apr 11, 2021 11:44 PM"
+145,0,157,Aabha ,ibsaabha@gmail.com,9845037012,razorpay,"1& 2 Shettihalli cross , Jalahalli West ",259,0,Not Used,Refunded,"Apr 11, 2021 11:44 PM","Apr 11, 2021 11:44 PM"
+151,100,157,Aabha ,ibsaabha@gmail.com,9845037012,razorpay,"1& 2 Shettihalli cross , Jalahalli West ",1661,0,Not Used,Delivered,"Apr 17, 2021 11:50 PM","Apr 17, 2021 11:50 PM"
+152,101,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",1033,0,Not Used,Delivered,"Apr 20, 2021 10:56 AM","Apr 20, 2021 10:56 AM"
+153,102,105,Priyamvada Jha,priyamvadajha1@gmail.com,9008500206,paytm,Princetown,2210,0,Not Used,Delivered,"Apr 20, 2021 6:05 PM","Apr 20, 2021 6:05 PM"
+154,0,105,Priyamvada Jha,priyamvadajha1@gmail.com,9008500206,paytm,Princetown,65,0,Not Used,Refunded,"Apr 20, 2021 6:05 PM","Apr 20, 2021 6:05 PM"
+155,103,106,uday kumar,kaikalaudayakumar@gmail.com,9100729062,paytm,Varada innovation Pvt Ltd,2198,0,Not Used,Delivered,"Apr 23, 2021 11:11 AM","Apr 23, 2021 11:11 AM"
+156,0,106,uday kumar,kaikalaudayakumar@gmail.com,9100729062,paytm,Varada innovation Pvt Ltd,45,0,Not Used,Refunded,"Apr 23, 2021 11:11 AM","Apr 23, 2021 11:11 AM"
+157,104,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1128,0,Not Used,Delivered,"Apr 24, 2021 11:00 AM","Apr 24, 2021 11:00 AM"
+158,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",7,0,Not Used,Refunded,"Apr 24, 2021 11:00 AM","Apr 24, 2021 11:00 AM"
+159,105,132,Ritu Priya,kumariritupriyajmt@gmail.com,6207451876,paytm,near airforce technical college,1562,0,Not Used,Delivered,"May 3, 2021 10:13 PM","May 3, 2021 10:13 PM"
+160,106,125,likhitha m,likhitham123@gmail.com,8431791869,paytm,opposite rajkumar samadhi,730,0,Not Used,Delivered,"May 7, 2021 10:38 PM","May 7, 2021 10:38 PM"
+161,107,203,Abhishek ,abhishekraj123@gmail.com,7014032087,paytm,Platinum City,826,0,Not Used,Delivered,"May 8, 2021 7:33 AM","May 8, 2021 7:33 AM"
+162,0,125,likhitha m,likhitham123@gmail.com,8431791869,paytm,opposite rajkumar samadhi,150,0,Not Used,Refunded,"May 7, 2021 10:38 PM","May 7, 2021 10:38 PM"
+163,108,206,Vicky ,vickydingra@gmail.com,9480601216,paytm,"Bashyam circle ,61st cross, 5th block",1417,0,Not Used,Delivered,"May 8, 2021 4:28 PM","May 8, 2021 4:28 PM"
+164,109,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1313,0,Not Used,Delivered,"May 9, 2021 2:23 AM","May 9, 2021 2:23 AM"
+165,110,207,Nadhia ,nadi10dec@gmail.com,7899167217,paytm,bangalore ,709,0,Not Used,Delivered,"May 9, 2021 7:52 AM","May 9, 2021 7:52 AM"
+166,111,208,vinayak anantrao,abvins05@gmail.com,7795125233,paytm,"Jalahalli west, Bangalore",1030,0,Not Used,Delivered,"May 9, 2021 9:09 AM","May 9, 2021 9:09 AM"
+168,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",44,0,Not Used,Refunded,"May 9, 2021 2:23 AM","May 9, 2021 2:23 AM"
+169,112,125,likhitha m,likhitham123@gmail.com,8431791869,paytm,opposite rajkumar samadhi,509,0,Not Used,Delivered,"May 9, 2021 6:40 PM","May 9, 2021 6:40 PM"
+170,113,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,"No.15, Global Auta",2523,0,Not Used,Delivered,"May 9, 2021 11:23 PM","May 9, 2021 11:23 PM"
+171,0,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,"No.15, Global Auta",31,0,Not Used,Refunded,"May 9, 2021 11:23 PM","May 9, 2021 11:23 PM"
+172,0,125,likhitha m,likhitham123@gmail.com,8431791869,paytm,opposite rajkumar samadhi,250,0,Not Used,Refunded,"May 9, 2021 6:40 PM","May 9, 2021 6:40 PM"
+173,114,213,vybhavi ,vybhavihs@gmail.com,9964215999,sodexo,chandra layout,1020,0,Not Used,Delivered,"May 10, 2021 10:37 AM","May 10, 2021 10:37 AM"
+178,115,214,Somil Swarnkar,somil.swarnkar@gmail.com,7233826827,paytm,5th cross 2nd B main Near Sairam Temple Gokula 1st Stage  Yeswanthpur ,3616,0,Not Used,Delivered,"May 10, 2021 11:48 PM","May 10, 2021 11:48 PM"
+180,0,214,Somil Swarnkar,somil.swarnkar@gmail.com,7233826827,paytm,5th cross 2nd B main Near Sairam Temple Gokula 1st Stage  Yeswanthpur ,50,0,Not Used,Refunded,"May 10, 2021 11:48 PM","May 10, 2021 11:48 PM"
+181,0,143,Surya SK,customerservice@sampurna-bazaar.com,6366574291,paytm,Bangalore,449,49,Not Used,33423,"May 11, 2021 12:22 PM","May 11, 2021 12:22 PM"
+182,116,215,bhimji ,bhimjibhudia@gmail.com,9606304667,paytm,jalahalli west brindawan layout,845,0,Not Used,Delivered,"May 11, 2021 2:34 PM","May 11, 2021 2:34 PM"
+183,0,215,bhimji ,bhimjibhudia@gmail.com,9606304667,paytm,jalahalli west brindawan layout,122,0,Not Used,Refunded,"May 11, 2021 2:34 PM","May 11, 2021 2:34 PM"
+184,117,225,Shalu ,shalu3632@gmail.com,9496741923,paytm,sanjaynagar bangalore ,764,0,Not Used,Delivered,"May 12, 2021 10:53 PM","May 12, 2021 10:53 PM"
+185,118,101,Vinodh Kumar G,vinodh21g@gmail.com,8762653496,paytm,"Parvati Nagara, 3rd Cross, Laggere",429,0,Not Used,Delivered,"May 13, 2021 8:54 AM","May 13, 2021 8:54 AM"
+186,119,220,srishti ,srishti.pandey31@gmail.com,9993787662,paytm,banglore,1516,0,Not Used,Delivered,"May 13, 2021 9:32 AM","May 13, 2021 9:32 AM"
+187,120,221,jayalakshmi ,mvjayalakshmi54@gmail.com,9962780874,paytm,opp to max muller public school,548,0,Not Used,Delivered,"May 13, 2021 11:37 AM","May 13, 2021 11:37 AM"
+188,121,234,Ranjita Bandoker,ranjita3112@gmail.com,9632965566,paytm,prince town apartment,358,29,Not Used,Delivered,"May 14, 2021 12:33 AM","May 14, 2021 12:33 AM"
+189,122,205,Trupthi ,trupthi.das@gmail.com,8217290170,paytm,"""Sowrabha"" No 7, 5th cross, Vinayaka Layout, RMV 2nd stage, Bhoopasandra, Bengaluru 560094",1468,0,Not Used,Delivered,"May 14, 2021 12:34 AM","May 14, 2021 12:34 AM"
+190,0,220,srishti ,srishti.pandey31@gmail.com,9993787662,paytm,banglore,49,0,Not Used,Refunded,"May 13, 2021 9:32 AM","May 13, 2021 9:32 AM"
+191,0,205,Trupthi ,trupthi.das@gmail.com,8217290170,paytm,"""Sowrabha"" No 7, 5th cross, Vinayaka Layout, RMV 2nd stage, Bhoopasandra, Bengaluru 560094",75,0,Not Used,Refunded,"May 14, 2021 12:34 AM","May 14, 2021 12:34 AM"
+192,0,234,Ranjita Bandoker,ranjita3112@gmail.com,9632965566,paytm,prince town apartment,193,0,Not Used,Refunded,"May 14, 2021 12:33 AM","May 14, 2021 12:33 AM"
+193,0,221,jayalakshmi ,mvjayalakshmi54@gmail.com,9962780874,paytm,opp to max muller public school,163,0,Not Used,Refunded,"May 13, 2021 11:37 AM","May 13, 2021 11:37 AM"
+194,123,233,praveen ,praveenmvc@gmail.com,8861670011,paytm,manohar video coverage,656,0,Not Used,Delivered,"May 14, 2021 9:50 AM","May 14, 2021 9:50 AM"
+195,0,205,Trupthi ,trupthi.das@gmail.com,8217290170,paytm,"""Sowrabha"" No 7, 5th cross, Vinayaka Layout, RMV 2nd stage, Bhoopasandra, Bengaluru 560094",152,0,Not Used,Refunded,"May 14, 2021 12:34 AM","May 14, 2021 12:34 AM"
+196,124,234,Ranjita Bandoker,ranjita3112@gmail.com,9632965566,paytm,prince town apartment,448,49,Not Used,Delivered,"May 15, 2021 9:56 AM","May 15, 2021 9:56 AM"
+199,125,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1612,0,Not Used,Delivered,"May 15, 2021 2:45 PM","May 15, 2021 2:45 PM"
+201,126,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,2694,0,Not Used,Delivered,"May 16, 2021 12:29 PM","May 16, 2021 12:29 PM"
+202,0,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,192,0,Not Used,Refunded,"May 16, 2021 12:29 PM","May 16, 2021 12:29 PM"
+203,127,207,Nadhia ,nadi10dec@gmail.com,7899167217,paytm,bangalore ,346,0,Not Used,Delivered,"May 18, 2021 8:19 AM","May 18, 2021 8:19 AM"
+204,128,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",0,0,Not Used,Delivered,"May 18, 2021 8:13 AM","May 18, 2021 8:13 AM"
+206,0,207,Nadhia ,nadi10dec@gmail.com,7899167217,paytm,bangalore ,92,0,Not Used,Refunded,"May 18, 2021 8:19 AM","May 18, 2021 8:19 AM"
+207,129,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",710,0,Not Used,Delivered,"May 18, 2021 9:41 AM",No date
+208,130,248,mahesh badri,mahesh.badri83@gmail.com,9731030022,sodexo,rajrajeshwarinagar,409,49,Not Used,Delivered,"May 19, 2021 11:06 AM","May 19, 2021 11:06 AM"
+209,131,233,praveen ,praveenmvc@gmail.com,8861670011,paytm,manohar video coverage,1742,0,Not Used,Delivered,"May 19, 2021 5:14 PM","May 19, 2021 5:14 PM"
+210,132,248,mahesh badri,mahesh.badri83@gmail.com,9731030022,sodexo,rajrajeshwarinagar,333,49,Not Used,Delivered,"May 19, 2021 7:57 PM","May 19, 2021 7:57 PM"
+211,133,214,Somil Swarnkar,somil.swarnkar@gmail.com,7233826827,paytm,5th cross 2nd B main Near Sairam Temple Gokula 1st Stage  Yeswanthpur ,531,0,Not Used,Delivered,"May 19, 2021 8:35 PM","May 19, 2021 8:35 PM"
+212,134,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,831,0,Not Used,Delivered,"May 19, 2021 11:55 PM","May 19, 2021 11:55 PM"
+213,0,214,Somil Swarnkar,somil.swarnkar@gmail.com,7233826827,paytm,5th cross 2nd B main Near Sairam Temple Gokula 1st Stage  Yeswanthpur ,54,0,Not Used,Refunded,"May 20, 2021 9:01 AM",No date
+214,0,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,107,0,Not Used,Refunded,"May 20, 2021 9:11 AM",No date
+217,135,248,mahesh badri,mahesh.badri83@gmail.com,9731030022,sodexo,rajrajeshwarinagar,2519,0,Not Used,Delivered,"May 22, 2021 11:01 AM","May 22, 2021 11:01 AM"
+218,136,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",1181,0,Not Used,Delivered,"May 22, 2021 4:44 PM","May 22, 2021 4:44 PM"
+219,0,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",9,0,Not Used,Refunded,"May 23, 2021 7:17 AM",No date
+225,137,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",2637,100,Not Used,Delivered,"May 24, 2021 9:05 PM","May 24, 2021 9:05 PM"
+227,138,105,Priyamvada Jha,priyamvadajha1@gmail.com,9008500206,paytm,Princetown,1158,0,Not Used,Delivered,"May 25, 2021 7:34 AM","May 25, 2021 7:34 AM"
+228,0,105,Priyamvada Jha,priyamvadajha1@gmail.com,9008500206,paytm,Princetown,15,0,Not Used,Refunded,"May 25, 2021 8:22 AM",No date
+229,139,248,mahesh badri,mahesh.badri83@gmail.com,9731030022,sodexo,rajrajeshwarinagar,1554,100,Not Used,Delivered,"May 25, 2021 2:26 PM","May 25, 2021 2:26 PM"
+230,140,212,kantharaju GY,kantha.gy@gmail.com,9448455050,sodexo,Opp Triveni Petrol pump,2352,0,Not Used,Delivered,"May 25, 2021 7:40 PM","May 25, 2021 7:40 PM"
+231,0,212,kantharaju GY,kantha.gy@gmail.com,9448455050,sodexo,Opp Triveni Petrol pump,67,0,Not Used,Refunded,"May 26, 2021 7:37 AM",No date
+232,0,248,mahesh badri,mahesh.badri83@gmail.com,9731030022,sodexo,rajrajeshwarinagar,126,0,Not Used,Refunded,"May 26, 2021 7:59 AM",No date
+233,141,214,Somil Swarnkar,somil.swarnkar@gmail.com,7233826827,paytm,5th cross 2nd B main Near Sairam Temple Gokula 1st Stage  Yeswanthpur ,629,0,Not Used,Delivered,"May 29, 2021 7:55 PM","May 29, 2021 7:55 PM"
+234,142,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1321,0,Not Used,Delivered,"May 29, 2021 11:12 PM","May 29, 2021 11:12 PM"
+235,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",348,0,Not Used,Refunded,"May 30, 2021 7:44 AM",No date
+236,0,214,Somil Swarnkar,somil.swarnkar@gmail.com,7233826827,paytm,5th cross 2nd B main Near Sairam Temple Gokula 1st Stage  Yeswanthpur ,65,0,Not Used,Refunded,"May 30, 2021 7:48 AM",No date
+238,143,215,bhimji ,bhimjibhudia@gmail.com,9606304667,paytm,jalahalli west brindawan layout,659,0,Not Used,Delivered,"May 31, 2021 1:19 PM","May 31, 2021 1:19 PM"
+246,144,318,Ambika gowda,ambikagowda88@gmail.com,9535973537,paytm,"#247,beside manjunatha furnitures,anekal main road,iggalur",714,100,Not Used,Delivered,"May 31, 2021 7:22 PM","May 31, 2021 7:22 PM"
+247,145,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1314,100,Not Used,Delivered,"May 31, 2021 11:23 PM","May 31, 2021 11:23 PM"
+249,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",144,0,Not Used,Refunded,"Jun 1, 2021 8:26 AM",No date
+254,146,248,mahesh badri,mahesh.badri83@gmail.com,9731030022,sodexo,rajrajeshwarinagar,2559,0,Not Used,Delivered,"Jun 2, 2021 6:47 PM","Jun 2, 2021 6:47 PM"
+255,147,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,418,100,Not Used,Delivered,"Jun 2, 2021 8:38 PM","Jun 2, 2021 8:38 PM"
+258,225,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Platinum city O block,275,100,Not Used,Delivered,"Jun 3, 2021 7:11 PM","Jun 3, 2021 7:11 PM"
+259,148,387,Kotraiah ,Kotraiahaamr@gmail.com,9448449723,paytm,Na,1127,100,Not Used,Delivered,"Jun 3, 2021 8:30 PM","Jun 3, 2021 8:30 PM"
+261,149,388,SARAVANA MURTHY,saravanamurthy@yahoo.com,9845311704,paytm,"Chamarajpet, Bangalore",1163,100,Not Used,Delivered,"Jun 4, 2021 1:35 PM","Jun 4, 2021 1:35 PM"
+262,226,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Platinum city O block,275,0,Not Used,Delivered,"Jun 4, 2021 1:40 PM",No date
+263,0,388,SARAVANA MURTHY,saravanamurthy@yahoo.com,9845311704,paytm,"Chamarajpet, Bangalore",108,0,Not Used,Refunded,"Jun 5, 2021 7:55 AM",No date
+264,150,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",1098,100,Not Used,Delivered,"Jun 5, 2021 11:24 PM","Jun 5, 2021 11:24 PM"
+265,151,306,ravi ,ravindra2kumar@gmail.com,9164011115,paytm,"snn raj serenity,  begur koppa road yelenahalli",979,100,Not Used,Delivered,"Jun 6, 2021 12:32 PM","Jun 6, 2021 12:32 PM"
+266,152,125,likhitha m,likhitham123@gmail.com,8431791869,paytm,opposite rajkumar samadhi,242,100,Not Used,Delivered,"Jun 6, 2021 8:37 PM","Jun 6, 2021 8:37 PM"
+267,153,398,Monica ,monica29288@gmail.com,9663777235,paytm,Princetown Apts,500,100,Not Used,Delivered,"Jun 6, 2021 9:08 PM","Jun 6, 2021 9:08 PM"
+268,154,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,2127,100,Not Used,Delivered,"Jun 6, 2021 10:09 PM","Jun 6, 2021 10:09 PM"
+270,0,125,likhitha m,likhitham123@gmail.com,8431791869,paytm,opposite rajkumar samadhi,206,0,Not Used,Refunded,"Jun 7, 2021 10:28 AM",No date
+273,155,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1672,100,Not Used,Delivered,"Jun 7, 2021 10:57 PM","Jun 7, 2021 10:57 PM"
+274,0,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Platinum city O block,757,100,Not Used,Picked and Packed,"Jun 9, 2021 9:13 AM","Jun 9, 2021 9:13 AM"
+275,156,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,925,100,Not Used,Delivered,"Jun 10, 2021 9:09 PM","Jun 10, 2021 9:09 PM"
+276,0,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,160,0,Not Used,Refunded,"Jun 11, 2021 8:15 AM",No date
+277,157,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1116,100,Not Used,Delivered,"Jun 12, 2021 11:22 PM","Jun 12, 2021 11:22 PM"
+278,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",46,0,Not Used,Refunded,"Jun 13, 2021 7:51 AM",No date
+279,158,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1010,0,Not Used,Delivered,"Jun 15, 2021 8:07 AM","Jun 15, 2021 8:07 AM"
+280,159,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1527,0,Not Used,Delivered,"Jun 16, 2021 6:24 PM","Jun 16, 2021 6:24 PM"
+281,0,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Platinum city O block,1195,0,Not Used,Picked and Packed,"Jun 18, 2021 11:04 AM","Jun 18, 2021 11:04 AM"
+282,160,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,834,0,Not Used,Delivered,"Jun 19, 2021 7:26 AM","Jun 19, 2021 7:26 AM"
+283,161,452,Murli Manohar,immmjha@gmail.com,8317477210,paytm,Princetown,1464,0,Not Used,Delivered,"Jun 19, 2021 10:14 AM","Jun 19, 2021 10:14 AM"
+284,162,125,likhitha m,likhitham123@gmail.com,8431791869,paytm,opposite rajkumar samadhi,702,100,Not Used,Delivered,"Jun 21, 2021 3:36 PM","Jun 21, 2021 3:36 PM"
+285,163,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1469,100,Not Used,Delivered,"Jun 21, 2021 9:01 PM","Jun 21, 2021 9:01 PM"
+286,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",17,0,Not Used,Refunded,"Jun 22, 2021 7:17 AM",No date
+287,0,125,likhitha m,likhitham123@gmail.com,8431791869,paytm,opposite rajkumar samadhi,158,0,Not Used,Refunded,"Jun 22, 2021 9:01 AM",No date
+288,164,319,Durga ,tdurgarao@gmail.com,9243027027,paytm,kengeri upanagara,593,100,Not Used,Delivered,"Jun 22, 2021 2:40 PM","Jun 22, 2021 2:40 PM"
+289,165,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,1810,100,Not Used,Delivered,"Jun 22, 2021 8:32 PM","Jun 22, 2021 8:32 PM"
+290,0,319,Durga ,tdurgarao@gmail.com,9243027027,paytm,kengeri upanagara,35,0,Not Used,Refunded,"Jun 23, 2021 8:07 AM",No date
+291,0,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,35,0,Not Used,Refunded,"Jun 23, 2021 8:24 AM",No date
+292,166,454,jayasree ,ummadisettyjayasree@gmail.com,9381493593,paytm,Bagalgunte,428,100,Not Used,Delivered,"Jun 23, 2021 9:03 AM","Jun 23, 2021 9:03 AM"
+293,167,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,683,0,Not Used,Delivered,"Jun 27, 2021 9:07 AM","Jun 27, 2021 9:07 AM"
+294,168,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1436,100,Not Used,Delivered,"Jun 28, 2021 1:43 PM","Jun 28, 2021 1:43 PM"
+295,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",100,0,Not Used,Refunded,"Jun 28, 2021 4:01 PM",No date
+296,169,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,1098,0,Not Used,Delivered,"Jun 28, 2021 10:06 PM","Jun 28, 2021 10:06 PM"
+297,170,452,Murli Manohar,immmjha@gmail.com,8317477210,paytm,Princetown,903,0,Not Used,Delivered,"Jul 2, 2021 10:58 PM","Jul 2, 2021 10:58 PM"
+298,171,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1720,0,Not Used,Delivered,"Jul 3, 2021 7:24 PM","Jul 3, 2021 7:24 PM"
+299,172,125,likhitha m,likhitham123@gmail.com,8431791869,paytm,opposite rajkumar samadhi,625,100,Not Used,Delivered,"Jul 3, 2021 7:36 PM","Jul 3, 2021 7:36 PM"
+300,173,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,995,0,Not Used,Delivered,"Jul 4, 2021 8:13 AM","Jul 4, 2021 8:13 AM"
+301,174,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",1535,0,Not Used,Delivered,"Jul 4, 2021 8:54 AM","Jul 4, 2021 8:54 AM"
+302,175,459,Kollol Deb,kollold@gmail.com,9953175246,sodexo,Prince town apartment,378,100,Not Used,Delivered,"Jul 4, 2021 8:05 PM","Jul 4, 2021 8:05 PM"
+303,176,212,kantharaju GY,kantha.gy@gmail.com,9448455050,sodexo,Opp Triveni Petrol pump,1082,100,Not Used,Delivered,"Jul 4, 2021 10:37 PM","Jul 4, 2021 10:37 PM"
+304,177,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,789,100,Not Used,Delivered,"Jul 5, 2021 7:48 AM","Jul 5, 2021 7:48 AM"
+305,0,212,kantharaju GY,kantha.gy@gmail.com,9448455050,sodexo,Opp Triveni Petrol pump,60,0,Not Used,Refunded,"Jul 5, 2021 9:53 AM",No date
+306,0,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,916,0,Not Used,Refunded,"Jul 5, 2021 9:54 AM",No date
+307,0,459,Kollol Deb,kollold@gmail.com,9953175246,sodexo,Prince town apartment,225,0,Not Used,Refunded,"Jul 5, 2021 9:55 AM",No date
+308,0,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,145,0,Not Used,Picked and Packed,"Jul 5, 2021 5:15 PM","Jul 5, 2021 5:15 PM"
+309,178,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1028,100,Not Used,Delivered,"Jul 6, 2021 6:38 AM","Jul 6, 2021 6:38 AM"
+310,179,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,415,100,Not Used,Delivered,"Jul 6, 2021 8:00 AM","Jul 6, 2021 8:00 AM"
+311,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",76,0,Not Used,Refunded,"Jul 6, 2021 9:24 AM",No date
+313,180,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,1831,100,Not Used,Delivered,"Jul 8, 2021 9:56 PM","Jul 8, 2021 9:56 PM"
+314,0,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,121,0,Not Used,Refunded,"Jul 9, 2021 9:00 AM",No date
+315,181,452,Murli Manohar,immmjha@gmail.com,8317477210,paytm,Princetown,1148,0,Not Used,Delivered,"Jul 10, 2021 9:55 AM","Jul 10, 2021 9:55 AM"
+316,182,460,anurag ,anuragnigam83@gmail.com,9972598000,paytm,jalahalli west ,1157,0,Not Used,Delivered,"Jul 10, 2021 5:37 PM","Jul 10, 2021 5:37 PM"
+317,183,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,836,0,Not Used,Delivered,"Jul 11, 2021 9:56 AM","Jul 11, 2021 9:56 AM"
+318,184,55,Rama Swamy,ramaswamy1804@gmail.com,8792726779,paytm,Varada innovation Pvt Ltd,1418,100,Not Used,Delivered,"Jul 13, 2021 11:37 AM","Jul 13, 2021 11:37 AM"
+319,185,55,Rama Swamy,ramaswamy1804@gmail.com,8792726779,paytm,Varada innovation Pvt Ltd,348,100,Not Used,Delivered,"Jul 13, 2021 2:26 PM",No date
+320,186,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,1118.03,0,Not Used,Delivered,"Jul 15, 2021 8:31 PM","Jul 15, 2021 8:31 PM"
+321,187,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,799,0,Not Used,Delivered,"Jul 15, 2021 10:00 PM","Jul 15, 2021 10:00 PM"
+322,188,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,1310,100,Not Used,Delivered,"Jul 16, 2021 10:56 PM","Jul 16, 2021 10:56 PM"
+323,0,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,195,0,Not Used,Refunded,"Jul 17, 2021 11:14 AM",No date
+324,189,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",924,100,Not Used,Delivered,"Jul 17, 2021 3:02 PM","Jul 17, 2021 3:02 PM"
+325,190,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",491,100,Not Used,Delivered,"Jul 17, 2021 5:35 PM",No date
+326,191,465,preeti ,preetimca11@gmail.com,7829771114,paytm,SNN Raj Serenity,3136,0,Not Used,Delivered,"Jul 18, 2021 1:30 PM","Jul 18, 2021 1:30 PM"
+327,192,125,likhitha m,likhitham123@gmail.com,8431791869,paytm,opposite rajkumar samadhi,350,100,Not Used,Delivered,"Jul 19, 2021 8:44 PM","Jul 19, 2021 8:44 PM"
+328,193,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",2057,100,Not Used,Delivered,"Jul 19, 2021 9:06 PM","Jul 19, 2021 9:06 PM"
+329,194,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",32,0,Not Used,Delivered,"Jul 20, 2021 8:50 AM",No date
+330,195,452,Murli Manohar,immmjha@gmail.com,8317477210,paytm,Princetown,1088,0,Not Used,Delivered,"Jul 20, 2021 9:05 PM","Jul 20, 2021 9:05 PM"
+333,196,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,969.03,0,Not Used,Delivered,"Jul 23, 2021 6:01 AM","Jul 23, 2021 6:01 AM"
+334,0,55,Rama Swamy,ramaswamy1804@gmail.com,8792726779,paytm,Varada innovation Pvt Ltd,268,0,Not Used,Refunded,"Jul 23, 2021 9:33 AM",No date
+335,197,459,Kollol Deb,kollold@gmail.com,9953175246,sodexo,Prince town apartment,659,0,Not Used,Delivered,"Jul 23, 2021 9:03 PM","Jul 23, 2021 9:03 PM"
+336,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",66,0,Not Used,Refunded,"Jul 24, 2021 9:42 AM",No date
+337,198,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,682,0,Not Used,Delivered,"Jul 25, 2021 10:32 AM","Jul 25, 2021 10:32 AM"
+338,199,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",0,100,Not Used,Delivered,"Jul 25, 2021 9:51 PM","Jul 25, 2021 9:51 PM"
+339,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",24,0,Not Used,Refunded,"Jul 26, 2021 11:38 AM",No date
+341,200,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,0,100,Not Used,Delivered,"Jul 26, 2021 9:13 PM","Jul 26, 2021 9:13 PM"
+342,0,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,47,0,Not Used,Refunded,"Jul 27, 2021 10:25 AM",No date
+343,201,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,2702.96,0,Not Used,Refunded,"Jul 28, 2021 9:49 AM","Jul 28, 2021 9:49 AM"
+344,202,56,Manjunath M,manjunath.2982@gmail.com,9986257842,paytm,Manjunath M,664,0,Not Used,Delivered,"Jul 29, 2021 2:02 PM","Jul 29, 2021 2:02 PM"
+349,203,452,Murli Manohar,immmjha@gmail.com,8317477210,paytm,Princetown,2510,100,Not Used,Delivered,"Jul 30, 2021 7:24 PM","Jul 30, 2021 7:24 PM"
+350,204,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,782,0,Not Used,Delivered,"Jul 30, 2021 9:09 PM","Jul 30, 2021 9:09 PM"
+351,205,459,Kollol Deb,kollold@gmail.com,9953175246,sodexo,Prince town apartment,775,100,Not Used,Delivered,"Jul 31, 2021 7:48 AM","Jul 31, 2021 7:48 AM"
+352,0,459,Kollol Deb,kollold@gmail.com,9953175246,sodexo,Prince town apartment,80,0,Not Used,Refunded,"Jul 31, 2021 10:13 AM",No date
+353,0,452,Murli Manohar,immmjha@gmail.com,8317477210,paytm,Princetown,74,0,Not Used,Refunded,"Jul 31, 2021 10:16 AM",No date
+354,206,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",2290.36,0,Not Used,Delivered,"Aug 1, 2021 9:25 PM","Aug 1, 2021 9:25 PM"
+356,207,56,Manjunath M,manjunath.2982@gmail.com,9986257842,paytm,Near Kadapa Swamy mata,1068,0,Not Used,Delivered,"Aug 3, 2021 10:55 PM","Aug 3, 2021 10:55 PM"
+357,208,243,Singam Amruth,amruthsingam@gmail.com,8152802267,paytm,Basaveswarnagar ,805.36,0,Not Used,Delivered,"Aug 5, 2021 7:56 AM","Aug 5, 2021 7:56 AM"
+359,209,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1505,100,Not Used,Delivered,"Aug 8, 2021 4:33 PM","Aug 8, 2021 4:33 PM"
+360,210,452,Murli Manohar,immmjha@gmail.com,8317477210,paytm,Princetown,702,100,Not Used,Delivered,"Aug 8, 2021 5:35 PM","Aug 8, 2021 5:35 PM"
+361,0,452,Murli Manohar,immmjha@gmail.com,8317477210,paytm,Princetown,160,0,Not Used,Refunded,"Aug 9, 2021 10:41 AM",No date
+362,256,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",190,0,Not Used,Delivered,"Aug 9, 2021 10:45 AM",No date
+363,211,459,Kollol Deb,kollold@gmail.com,9953175246,sodexo,Prince town apartment,770.17,0,Not Used,Delivered,"Aug 9, 2021 10:12 PM","Aug 9, 2021 10:12 PM"
+364,212,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,958,0,Not Used,Delivered,"Aug 9, 2021 10:39 PM","Aug 9, 2021 10:39 PM"
+365,213,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",829.14,0,Not Used,Delivered,"Aug 11, 2021 7:14 PM","Aug 11, 2021 7:14 PM"
+369,214,452,Murli Manohar,immmjha@gmail.com,8317477210,paytm,Princetown,650,0,Not Used,Delivered,"Aug 13, 2021 7:30 PM","Aug 13, 2021 7:30 PM"
+372,215,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",2188,0,Not Used,Delivered,"Aug 16, 2021 2:56 PM","Aug 16, 2021 2:56 PM"
+387,217,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,850,0,Not Used,Delivered,"Aug 18, 2021 8:16 PM","Aug 18, 2021 8:16 PM"
+390,0,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,90,0,Not Used,Refunded,"Aug 19, 2021 12:47 PM",No date
+391,216,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,"VARADA INNOVATIONS PRIVATE LIMITED, 255, 2nd Floor, 8th Cross, 4th Phase, Peenya industrial area, Above ICICI Bank, Ganapathi Nagar, Bangalore",1195,0,Not Used,Delivered,"Aug 19, 2021 2:23 PM","Aug 19, 2021 2:23 PM"
+392,218,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,1694,0,Not Used,Delivered,"Aug 19, 2021 9:20 PM","Aug 19, 2021 9:20 PM"
+393,0,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,72,0,Not Used,Refunded,"Aug 20, 2021 9:28 AM",No date
+394,219,452,Murli Manohar,immmjha@gmail.com,8317477210,paytm,Princetown,1176,0,Not Used,Delivered,"Aug 21, 2021 7:10 AM","Aug 21, 2021 7:10 AM"
+395,220,450,Singam Amruth,singam.amruth@sampurna-bazaar.com,6366574290,paytm,Basaveswarnagar ,864,0,Not Used,Delivered,"Aug 21, 2021 10:47 AM","Aug 21, 2021 10:47 AM"
+397,0,450,Singam Amruth,singam.amruth@sampurna-bazaar.com,6366574290,paytm,Basaveswarnagar ,33,0,Not Used,Refunded,"Aug 21, 2021 12:21 PM",No date
+410,0,88,Surya S K,suryakrishnan2002@gmail.com,8123300652,paytm,chikasandra,8351,0,Not Used,New Order,"Aug 23, 2021 12:39 PM","Aug 23, 2021 12:39 PM"
+411,222,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1644.5,0,Not Used,Delivered,"Aug 23, 2021 3:55 PM","Aug 23, 2021 3:55 PM"
+412,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",419,0,Not Used,Refunded,"Aug 24, 2021 8:10 AM",No date
+413,221,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,863,0,Not Used,Delivered,"Aug 24, 2021 10:57 PM","Aug 24, 2021 10:57 PM"
+414,0,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,55,0,Not Used,Refunded,"Aug 25, 2021 1:33 PM",No date
+419,223,507,meghana ,meghana.harish@gmail.com,9880105528,paytm,rennaisance park 1 ,1672,0,Not Used,Delivered,"Aug 30, 2021 8:59 AM","Aug 30, 2021 8:59 AM"
+420,227,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1278,0,Not Used,Delivered,"Aug 30, 2021 9:30 PM","Aug 30, 2021 9:30 PM"
+421,228,452,Murli Manohar,immmjha@gmail.com,8317477210,paytm,Princetown,839,0,Not Used,Delivered,"Sep 3, 2021 5:02 PM","Sep 3, 2021 5:02 PM"
+422,229,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,943,0,Not Used,Delivered,"Sep 3, 2021 10:54 PM","Sep 3, 2021 10:54 PM"
+423,231,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1658,0,Not Used,Delivered,"Sep 5, 2021 5:14 PM","Sep 5, 2021 5:14 PM"
+424,232,459,Kollol Deb,kollold@gmail.com,9953175246,sodexo,Prince town apartment,627,0,Not Used,Delivered,"Sep 5, 2021 5:58 PM","Sep 5, 2021 5:58 PM"
+425,230,212,kantharaju GY,kantha.gy@gmail.com,9448455050,sodexo,Opp Triveni Petrol pump,1259,0,Not Used,Delivered,"Sep 5, 2021 9:13 PM","Sep 5, 2021 9:13 PM"
+426,0,212,kantharaju GY,kantha.gy@gmail.com,9448455050,sodexo,Opp Triveni Petrol pump,85,0,Not Used,Refunded,"Sep 6, 2021 8:03 AM",No date
+427,0,459,Kollol Deb,kollold@gmail.com,9953175246,sodexo,Prince town apartment,103,0,Not Used,Refunded,"Sep 6, 2021 10:01 AM",No date
+428,233,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,1838,0,Not Used,Delivered,"Sep 8, 2021 9:34 PM","Sep 8, 2021 9:34 PM"
+429,0,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,189,0,Not Used,Refunded,"Sep 9, 2021 8:06 AM",No date
+430,234,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,701,0,Not Used,Delivered,"Sep 12, 2021 12:34 PM","Sep 12, 2021 12:34 PM"
+431,235,452,Murli Manohar,immmjha@gmail.com,8317477210,paytm,Princetown,1015,0,Not Used,Delivered,"Sep 12, 2021 5:50 PM","Sep 12, 2021 5:50 PM"
+432,236,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1441,0,Not Used,Delivered,"Sep 12, 2021 8:49 PM","Sep 12, 2021 8:49 PM"
+433,237,521,Jayaprakasha ,yashupavanh@gmail.com,9741555279,paytm,huskur road,314,100,Not Used,Delivered,"Sep 13, 2021 3:24 PM","Sep 13, 2021 3:24 PM"
+434,239,450,Singam Amruth,singam.amruth@sampurna-bazaar.com,6366574290,paytm,Basaveswarnagar ,1254,0,Not Used,Delivered,"Sep 16, 2021 9:00 AM","Sep 16, 2021 9:00 AM"
+435,238,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",2004,0,Not Used,Delivered,"Sep 16, 2021 3:18 PM","Sep 16, 2021 3:18 PM"
+436,0,450,Singam Amruth,singam.amruth@sampurna-bazaar.com,6366574290,paytm,Basaveswarnagar ,788,0,Not Used,Refunded,"Sep 17, 2021 8:33 AM","Sep 17, 2021 8:33 AM"
+437,240,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,650,0,Not Used,Delivered,"Sep 17, 2021 9:08 PM","Sep 17, 2021 9:08 PM"
+438,241,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1603,0,Not Used,Delivered,"Sep 18, 2021 11:53 PM","Sep 18, 2021 11:53 PM"
+439,242,450,Singam Amruth,singam.amruth@sampurna-bazaar.com,6366574290,paytm,Basaveswarnagar ,1268,0,Not Used,Delivered,"Sep 19, 2021 1:41 PM","Sep 19, 2021 1:41 PM"
+440,243,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1279,0,Not Used,Delivered,"Sep 19, 2021 8:43 PM","Sep 19, 2021 8:43 PM"
+443,245,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,683,0,Not Used,Delivered,"Sep 20, 2021 10:29 PM","Sep 20, 2021 10:29 PM"
+444,244,55,Rama Swamy,ramaswamy1804@gmail.com,8792726779,paytm,Varada innovation Pvt Ltd,2941,0,Not Used,Delivered,"Sep 21, 2021 10:10 AM","Sep 21, 2021 10:10 AM"
+445,246,452,Murli Manohar,immmjha@gmail.com,8317477210,paytm,Princetown,1089,0,Not Used,Delivered,"Sep 23, 2021 7:59 AM","Sep 23, 2021 7:59 AM"
+449,374,88,Surya S K,suryakrishnan2002@gmail.com,8123300652,paytm,chikasandra,945,0,Not Used,Delivered,"Sep 24, 2021 4:59 PM","Sep 24, 2021 4:59 PM"
+450,247,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,766,0,Not Used,Delivered,"Sep 24, 2021 8:43 PM","Sep 24, 2021 8:43 PM"
+451,248,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,1879,0,Not Used,Delivered,"Sep 24, 2021 8:44 PM","Sep 24, 2021 8:44 PM"
+452,0,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,43,0,Not Used,Refunded,"Sep 25, 2021 10:25 AM",No date
+453,250,106,uday kumar,kaikalaudayakumar@gmail.com,9100729062,paytm,Varada innovation Pvt Ltd,703,0,Not Used,Delivered,"Sep 25, 2021 1:00 PM","Sep 25, 2021 1:00 PM"
+454,249,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1890,0,Not Used,Delivered,"Sep 26, 2021 12:28 AM","Sep 26, 2021 12:28 AM"
+455,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",154,0,Not Used,Refunded,"Sep 26, 2021 8:55 AM",No date
+456,251,243,Singam Amruth,amruthsingam@gmail.com,8152802267,paytm,Basaveswarnagar ,1819,0,Not Used,Delivered,"Sep 28, 2021 12:13 PM","Sep 28, 2021 12:13 PM"
+457,252,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,VARADA INNOVATIONS PRIVATE LIMITED,1030,0,Not Used,Delivered,"Sep 29, 2021 4:29 PM","Sep 29, 2021 4:29 PM"
+458,0,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,VARADA INNOVATIONS PRIVATE LIMITED,193,0,Not Used,Refunded,"Sep 29, 2021 5:07 PM",No date
+459,0,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,1639,0,Not Used,Delivered,"Oct 1, 2021 7:49 AM","Oct 1, 2021 7:49 AM"
+460,0,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,VARADA INNOVATIONS PRIVATE LIMITED,450,100,Not Used,Cancelled,"Oct 2, 2021 2:31 PM","Oct 2, 2021 2:31 PM"
+461,254,452,Murli Manohar,immmjha@gmail.com,8317477210,paytm,Princetown,1098,0,Not Used,Delivered,"Oct 2, 2021 5:15 PM","Oct 2, 2021 5:15 PM"
+462,253,533,RM KUMAR,vishpri.rm@gmail.com,9840032988,paytm,"2066, Prestige Kensington Gardens",1548,0,Not Used,Delivered,"Oct 2, 2021 6:59 PM","Oct 2, 2021 6:59 PM"
+463,0,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",1466,0,Not Used,Delivered,"Oct 3, 2021 3:14 PM","Oct 3, 2021 3:14 PM"
+464,0,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",1274,0,Not Used,Delivered,"Oct 3, 2021 8:21 PM","Oct 3, 2021 8:21 PM"
+465,257,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,665,0,Not Used,Delivered,"Oct 4, 2021 6:55 AM","Oct 4, 2021 6:55 AM"
+466,255,478,Harsha ,Harsha.hp@varada.ooo,8884315999,paytm,VIDYA BHARATHI SCHOOL,805,0,Not Used,Delivered,"Oct 4, 2021 10:00 AM","Oct 4, 2021 10:00 AM"
+468,0,88,Surya S K,suryakrishnan2002@gmail.com,8123300652,paytm,Ramachandrapuram,1180,0,Not Used,New Order,"Oct 4, 2021 4:20 PM","Oct 4, 2021 4:20 PM"
+469,260,480,priyanka v,priyanka.v@sampurna-bazaar.com,6366574285,paytm,"Freedom Fighters Colony, Laggere",821,0,Not Used,Delivered,"Oct 7, 2021 4:10 PM","Oct 7, 2021 4:10 PM"
+470,258,212,kantharaju GY,kantha.gy@gmail.com,9448455050,sodexo,Opp Triveni Petrol pump,1585,0,Not Used,Delivered,"Oct 7, 2021 10:32 PM","Oct 7, 2021 10:32 PM"
+471,259,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",1479,0,Not Used,Delivered,"Oct 8, 2021 7:56 AM","Oct 8, 2021 7:56 AM"
+472,264,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1006,0,Not Used,Delivered,"Oct 10, 2021 8:40 PM","Oct 10, 2021 8:40 PM"
+473,263,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,994,0,Not Used,Delivered,"Oct 10, 2021 10:28 PM","Oct 10, 2021 10:28 PM"
+474,266,452,Murli Manohar,immmjha@gmail.com,8317477210,paytm,Princetown,1227,0,Not Used,Delivered,"Oct 14, 2021 11:25 PM","Oct 14, 2021 11:25 PM"
+475,267,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1106,0,Not Used,Delivered,"Oct 18, 2021 11:49 AM","Oct 18, 2021 11:49 AM"
+476,268,243,Singam Amruth,amruthsingam@gmail.com,8152802267,paytm,Basaveswarnagar ,1279,0,Not Used,Delivered,"Oct 22, 2021 9:29 AM","Oct 22, 2021 9:29 AM"
+477,0,243,Singam Amruth,amruthsingam@gmail.com,8152802267,paytm,Basaveswarnagar ,27,0,Not Used,Refunded,"Oct 22, 2021 9:29 AM",No date
+478,270,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",961,0,Not Used,Delivered,"Oct 22, 2021 12:20 PM","Oct 22, 2021 12:20 PM"
+479,269,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,1578,0,Not Used,Delivered,"Oct 24, 2021 7:35 PM","Oct 24, 2021 7:35 PM"
+480,0,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,77,0,Not Used,Refunded,"Oct 22, 2021 9:29 AM",No date
+486,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",93,0,Not Used,Refunded,"Oct 29, 2021 3:11 PM",No date
+487,271,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,VARADA INNOVATIONS PRIVATE LIMITED,1043,0,Not Used,Delivered,"Oct 29, 2021 4:17 PM","Oct 29, 2021 4:17 PM"
+488,273,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,Varada Innovations Private Limited,1102,0,Not Used,Delivered,"Oct 31, 2021 2:32 PM","Oct 31, 2021 2:32 PM"
+489,272,452,Murli Manohar,immmjha@gmail.com,8317477210,paytm,Princetown,1262,0,Not Used,Delivered,"Oct 31, 2021 7:38 PM","Oct 31, 2021 7:38 PM"
+490,274,452,Murli Manohar,immmjha@gmail.com,8317477210,paytm,Princetown,304,0,Not Used,Delivered,"Nov 1, 2021 8:02 AM",No date
+491,275,480,priyanka v,priyanka.v@sampurna-bazaar.com,6366574285,paytm,pennya,2033,0,Not Used,Delivered,"Nov 3, 2021 3:23 PM","Nov 3, 2021 3:23 PM"
+492,276,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",1408,0,Not Used,Delivered,"Nov 3, 2021 7:46 PM","Nov 3, 2021 7:46 PM"
+493,279,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",49,0,Not Used,Delivered,"Nov 4, 2021 7:44 AM",No date
+494,277,478,Harsha ,Harsha.hp@varada.ooo,8884315999,paytm,VIDYA BHARATHI SCHOOL,922,0,Not Used,Delivered,"Nov 10, 2021 10:42 AM","Nov 10, 2021 10:42 AM"
+495,278,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1369,0,Not Used,Delivered,"Nov 11, 2021 3:12 PM","Nov 11, 2021 3:12 PM"
+496,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",386,0,Not Used,Refunded,"Nov 12, 2021 10:55 AM",No date
+497,280,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1188,0,Not Used,Delivered,"Nov 13, 2021 7:47 AM","Nov 13, 2021 7:47 AM"
+498,281,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",1058,0,Not Used,Delivered,"Nov 13, 2021 7:53 AM","Nov 13, 2021 7:53 AM"
+499,282,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,1219,0,Not Used,Delivered,"Nov 15, 2021 10:29 PM","Nov 15, 2021 10:29 PM"
+500,283,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",871,0,Not Used,Delivered,"Nov 16, 2021 7:40 AM","Nov 16, 2021 7:40 AM"
+501,284,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1120,0,Not Used,Delivered,"Nov 20, 2021 10:50 AM","Nov 20, 2021 10:50 AM"
+502,285,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",2863,0,Not Used,Delivered,"Nov 22, 2021 2:52 PM","Nov 22, 2021 2:52 PM"
+503,271,547,Mohan Raj,mohanraj1412@gmail.com,9845087977,paytm,KR Puram Railway Station,72250,0,Not Used,Delivered,"Nov 23, 2021 2:03 PM","Nov 23, 2021 2:03 PM"
+504,288,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,Kumar Princetown,714,0,Not Used,Delivered,"Nov 24, 2021 3:09 PM","Nov 24, 2021 3:09 PM"
+505,289,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",2021,0,Not Used,Delivered,"Nov 28, 2021 8:10 AM","Nov 28, 2021 8:10 AM"
+506,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",199,0,Not Used,Refunded,"Nov 28, 2021 10:28 AM",No date
+507,290,56,Manjunath M,manjunath.2982@gmail.com,9986257842,paytm,Manjunath M,1091,0,Not Used,Delivered,"Nov 29, 2021 11:18 AM","Nov 29, 2021 11:18 AM"
+508,291,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1550,0,Not Used,Delivered,"Dec 2, 2021 3:13 PM","Dec 2, 2021 3:13 PM"
+509,304,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",93,0,Not Used,Delivered,"Dec 2, 2021 5:12 PM",No date
+510,292,480,priyanka v,priyanka.v@sampurna-bazaar.com,6366574285,paytm,pennya,1959,0,Not Used,Delivered,"Dec 4, 2021 1:43 PM","Dec 4, 2021 1:43 PM"
+511,293,547,Mohan Raj,mohanraj1412@gmail.com,9845087977,paytm,KR Puram Railway Station,148401,0,Not Used,Delivered,"Dec 6, 2021 2:48 PM","Dec 6, 2021 2:48 PM"
+512,294,547,Mohan Raj,mohanraj1412@gmail.com,9845087977,paytm,KR Puram Railway Station,37100,0,Not Used,Delivered,"Dec 6, 2021 2:51 PM","Dec 6, 2021 2:51 PM"
+513,295,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1352,0,Not Used,Delivered,"Dec 6, 2021 8:17 PM","Dec 6, 2021 8:17 PM"
+514,296,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1627,0,Not Used,Delivered,"Dec 9, 2021 4:47 PM","Dec 9, 2021 4:47 PM"
+515,297,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",901,0,Not Used,Delivered,"Dec 9, 2021 6:10 PM","Dec 9, 2021 6:10 PM"
+516,303,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",286,0,Not Used,Delivered,"Dec 9, 2021 6:25 PM",No date
+517,298,212,kantharaju GY,kantha.gy@gmail.com,9448455050,sodexo,Opp Triveni Petrol pump,942,0,Not Used,Delivered,"Dec 9, 2021 9:05 PM","Dec 9, 2021 9:05 PM"
+518,299,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,VARADA INNOVATIONS PRIVATE LIMITED,2000,0,Not Used,Delivered,"Dec 10, 2021 4:10 PM","Dec 10, 2021 4:10 PM"
+519,300,480,priyanka v,priyanka.v@sampurna-bazaar.com,6366574285,paytm,"Freedom Fighters Colony, Laggere",1032,0,Not Used,Delivered,"Dec 11, 2021 12:13 PM","Dec 11, 2021 12:13 PM"
+520,301,56,Manjunath M,manjunath.2982@gmail.com,9986257842,paytm,Near Kadapa Swamy mata,654,0,Not Used,Delivered,"Dec 12, 2021 9:38 PM","Dec 12, 2021 9:38 PM"
+521,302,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1682,0,Not Used,Delivered,"Dec 12, 2021 10:15 PM","Dec 12, 2021 10:15 PM"
+522,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",31,0,Not Used,Refunded,"Dec 13, 2021 9:30 AM",No date
+523,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",602,0,Not Used,Refunded,"Dec 13, 2021 9:34 AM",No date
+524,305,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,VARADA INNOVATIONS PRIVATE LIMITED,1882,0,Not Used,Delivered,"Dec 17, 2021 2:47 PM","Dec 17, 2021 2:47 PM"
+525,0,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,VARADA INNOVATIONS PRIVATE LIMITED,128,0,Not Used,Refunded,"Dec 17, 2021 3:42 PM",No date
+526,306,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1772,0,Not Used,Delivered,"Dec 18, 2021 11:37 PM","Dec 18, 2021 11:37 PM"
+527,307,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1925,0,Not Used,Delivered,"Dec 24, 2021 12:58 PM","Dec 24, 2021 12:58 PM"
+528,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",35,0,Not Used,Refunded,"Dec 24, 2021 1:54 PM",No date
+529,308,553,Manjunath M,manjunath.m@varada.ooo,6366574282,paytm,Kadapa Swamy GHPS ಕಡಪ ಸ್ವಾಮಿ ಹೈಸ್ಕೂಲ್,650,0,Not Used,Delivered,"Dec 29, 2021 11:00 PM","Dec 29, 2021 11:00 PM"
+530,310,480,priyanka v,priyanka.v@sampurna-bazaar.com,6366574285,paytm,pennya,3023,0,Not Used,Delivered,"Dec 31, 2021 11:00 AM","Dec 31, 2021 11:00 AM"
+531,309,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1469,0,Not Used,Delivered,"Dec 31, 2021 11:47 AM","Dec 31, 2021 11:47 AM"
+532,311,101,Vinodh Kumar G,vinodh21g@gmail.com,8762653496,paytm,Laggere,347,100,Not Used,Delivered,"Dec 31, 2021 3:27 PM","Dec 31, 2021 3:27 PM"
+533,312,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,1162,0,Not Used,Delivered,"Jan 2, 2022 11:25 PM","Jan 2, 2022 11:25 PM"
+534,313,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",873,0,Not Used,Delivered,"Jan 3, 2022 11:46 AM","Jan 3, 2022 11:46 AM"
+535,314,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1452,0,Not Used,Delivered,"Jan 4, 2022 12:43 PM","Jan 4, 2022 12:43 PM"
+536,318,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,VARADA INNOVATIONS PRIVATE LIMITED,2591,0,Not Used,Delivered,"Jan 4, 2022 5:30 PM","Jan 4, 2022 5:30 PM"
+537,323,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,VARADA INNOVATIONS PRIVATE LIMITED,203,0,Not Used,Delivered,"Jan 4, 2022 6:30 PM",No date
+538,0,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,1364,0,Not Used,Refunded,"Jan 7, 2022 3:02 PM","Jan 7, 2022 3:02 PM"
+539,319,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",0,0,Not Used,Delivered,"Jan 9, 2022 1:29 PM","Jan 9, 2022 1:29 PM"
+540,382,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",420,0,Not Used,Delivered,"Jan 9, 2022 2:33 PM",No date
+541,346,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",291,0,Not Used,Delivered,"Jan 9, 2022 2:34 PM",No date
+542,321,300,Prasun Nandy,prasun904@gmail.com,9986047542,paytm,Shettyhalli,721,0,Not Used,Delivered,"Jan 10, 2022 9:53 PM","Jan 10, 2022 9:53 PM"
+543,322,131,rajilakshmi863@gmail.com ,rajilakshmi863@gmail.com,8095570272,paytm,Vidya nagar,1232,0,Not Used,Delivered,"Jan 11, 2022 12:09 PM","Jan 11, 2022 12:09 PM"
+544,0,131,rajilakshmi863@gmail.com ,rajilakshmi863@gmail.com,8095570272,paytm,Vidya nagar,109,0,Not Used,Refunded,"Jan 11, 2022 1:28 PM",No date
+545,0,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,1596,0,Not Used,Delivered,"Jan 13, 2022 10:15 AM","Jan 13, 2022 10:15 AM"
+546,324,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,96,0,Not Used,Delivered,"Jan 13, 2022 11:33 AM",No date
+547,325,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1671,0,Not Used,Delivered,"Jan 14, 2022 4:28 PM","Jan 14, 2022 4:28 PM"
+548,326,555,Praveen ,praveengupta.bsb@gmail.com,9740894141,paytm,Kumar Princetown,1556,0,Not Used,Delivered,"Jan 17, 2022 11:59 AM","Jan 17, 2022 11:59 AM"
+549,342,555,Praveen ,praveengupta.bsb@gmail.com,9740894141,paytm,Kumar Princetown,22,0,Not Used,Delivered,"Jan 17, 2022 1:08 PM",No date
+550,327,553,Manjunath M,manjunath.m@varada.ooo,6366574282,paytm,VARADA INNOVATIONS PRIVATE LIMITED,680,0,Not Used,Delivered,"Jan 18, 2022 12:50 PM","Jan 18, 2022 12:50 PM"
+551,328,561,Vinish ,menoth.vinish@gmail.com,8150018687,paytm,Prince Town Apartment,684,0,Not Used,Delivered,"Jan 18, 2022 1:50 PM","Jan 18, 2022 1:50 PM"
+552,330,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1321,0,Not Used,Delivered,"Jan 23, 2022 8:30 AM","Jan 23, 2022 8:30 AM"
+553,329,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",826,0,Not Used,Delivered,"Jan 23, 2022 10:40 AM","Jan 23, 2022 10:40 AM"
+554,332,480,priyanka v,priyanka.v@sampurna-bazaar.com,6366574285,paytm,pennya,2908,0,Not Used,Delivered,"Jan 24, 2022 3:44 PM","Jan 24, 2022 3:44 PM"
+555,334,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1290,0,Not Used,Delivered,"Jan 26, 2022 8:34 PM","Jan 26, 2022 8:34 PM"
+556,335,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1258,0,Not Used,Delivered,"Jan 29, 2022 8:37 AM","Jan 29, 2022 8:37 AM"
+557,336,480,priyanka v,priyanka.v@sampurna-bazaar.com,6366574285,paytm,"Freedom Fighters Colony, Laggere",1003,0,Not Used,Delivered,"Jan 29, 2022 12:42 PM","Jan 29, 2022 12:42 PM"
+558,337,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,2806,0,Not Used,Delivered,"Jan 30, 2022 11:48 AM","Jan 30, 2022 11:48 AM"
+559,338,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,4987,0,Not Used,Delivered,"Jan 31, 2022 12:41 AM","Jan 31, 2022 12:41 AM"
+560,343,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,140,0,Not Used,Delivered,"Jan 31, 2022 10:10 AM",No date
+561,339,563,Sumera ,sumerashariff06@gmail.com,8951728818,paytm,"Kaveri Layout, S.G. Palya",2034,0,Not Used,Delivered,"Feb 1, 2022 3:10 PM","Feb 1, 2022 3:10 PM"
+562,340,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",0,0,Not Used,Delivered,"Feb 2, 2022 5:43 PM","Feb 2, 2022 5:43 PM"
+563,341,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",194,0,Not Used,Delivered,"Feb 2, 2022 6:42 PM",No date
+564,344,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1137,0,Not Used,Delivered,"Feb 4, 2022 9:43 PM","Feb 4, 2022 9:43 PM"
+565,345,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1158,0,Not Used,Delivered,"Feb 11, 2022 3:47 PM","Feb 11, 2022 3:47 PM"
+566,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",48,0,Not Used,Refunded,"Feb 11, 2022 4:44 PM",No date
+567,347,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",0,0,Not Used,Delivered,"Feb 16, 2022 4:38 PM","Feb 16, 2022 4:38 PM"
+568,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1081,0,Not Used,Refunded,"Feb 16, 2022 6:28 PM",No date
+569,348,480,priyanka v,priyanka.v@sampurna-bazaar.com,6366574285,paytm,pennya,3785,0,Not Used,Delivered,"Feb 18, 2022 4:05 PM","Feb 18, 2022 4:05 PM"
+570,0,480,priyanka v,priyanka.v@sampurna-bazaar.com,6366574285,paytm,pennya,351,0,Not Used,Refunded,"Feb 18, 2022 4:47 PM",No date
+571,350,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",0,0,Not Used,Delivered,"Feb 21, 2022 1:27 PM","Feb 21, 2022 1:27 PM"
+572,349,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",0,0,Not Used,Delivered,"Feb 21, 2022 1:42 PM","Feb 21, 2022 1:42 PM"
+573,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",0,0,Not Used,Picked and Packed,"Feb 21, 2022 4:32 PM",No date
+574,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",663,0,Not Used,Refunded,"Feb 21, 2022 5:17 PM",No date
+575,351,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,VARADA INNOVATIONS PRIVATE LIMITED,1164,0,Not Used,Delivered,"Feb 22, 2022 5:33 AM","Feb 22, 2022 5:33 AM"
+576,352,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1760,0,Not Used,Delivered,"Feb 27, 2022 12:35 PM","Feb 27, 2022 12:35 PM"
+577,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",364,0,Not Used,Refunded,"Feb 27, 2022 1:41 PM",No date
+578,353,555,Praveen ,praveengupta.bsb@gmail.com,9740894141,paytm,Kumar Princetown,1278,0,Not Used,Delivered,"Mar 1, 2022 8:52 PM","Mar 1, 2022 8:52 PM"
+579,354,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,1034,0,Not Used,Delivered,"Mar 2, 2022 11:29 AM","Mar 2, 2022 11:29 AM"
+580,355,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,953,0,Not Used,Delivered,"Mar 3, 2022 11:45 PM","Mar 3, 2022 11:45 PM"
+581,356,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1395,0,Not Used,Delivered,"Mar 4, 2022 3:55 PM","Mar 4, 2022 3:55 PM"
+582,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",23,0,Not Used,Refunded,"Mar 4, 2022 5:00 PM",No date
+583,357,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1685,0,Not Used,Delivered,"Mar 12, 2022 4:17 PM","Mar 12, 2022 4:17 PM"
+584,358,212,kantharaju GY,kantha.gy@gmail.com,9448455050,paytm,Opp Triveni Petrol pump,1177,0,Not Used,Delivered,"Mar 14, 2022 10:07 PM","Mar 14, 2022 10:07 PM"
+585,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",970,0,Not Used,Delivered,"Mar 16, 2022 11:21 PM","Mar 16, 2022 11:21 PM"
+586,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",224,0,Not Used,Refunded,"Mar 17, 2022 10:10 AM",No date
+587,359,553,Manjunath M,manjunath.m@varada.ooo,6366574282,paytm,Kadapa Swamy GHPS ಕಡಪ ಸ್ವಾಮಿ ಹೈಸ್ಕೂಲ್,759,0,Not Used,Delivered,"Mar 24, 2022 10:07 PM","Mar 24, 2022 10:07 PM"
+588,0,553,Manjunath M,manjunath.m@varada.ooo,6366574282,paytm,Kadapa Swamy GHPS ಕಡಪ ಸ್ವಾಮಿ ಹೈಸ್ಕೂಲ್,50,0,Not Used,Refunded,"Mar 25, 2022 8:57 AM",No date
+589,360,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1135,0,Not Used,Delivered,"Mar 25, 2022 4:41 PM","Mar 25, 2022 4:41 PM"
+590,361,480,priyanka v,priyanka.v@sampurna-bazaar.com,6366574285,paytm,pennya,3662,0,Not Used,Delivered,"Mar 28, 2022 6:08 PM","Mar 28, 2022 6:08 PM"
+591,0,480,priyanka v,priyanka.v@sampurna-bazaar.com,6366574285,paytm,pennya,370,0,Not Used,Refunded,"Mar 28, 2022 6:48 PM",No date
+592,362,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1315,0,Not Used,Delivered,"Mar 29, 2022 3:00 PM","Mar 29, 2022 3:00 PM"
+593,363,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1055,0,Not Used,Delivered,"Mar 31, 2022 4:51 PM","Mar 31, 2022 4:51 PM"
+594,364,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1272,0,Not Used,Delivered,"Apr 6, 2022 12:36 PM","Apr 6, 2022 12:36 PM"
+595,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",48,0,Not Used,Accepted,"Apr 7, 2022 3:51 PM",No date
+596,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",0,0,Not Used,Picked and Packed,"Apr 7, 2022 3:53 PM",No date
+597,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",216,0,Not Used,Refunded,"Apr 7, 2022 3:57 PM",No date
+598,365,553,Manjunath M,manjunath.m@varada.ooo,6366574282,paytm,VARADA INNOVATIONS PRIVATE LIMITED,688,0,Not Used,Delivered,"Apr 11, 2022 1:19 PM","Apr 11, 2022 1:19 PM"
+599,366,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1229,0,Not Used,Delivered,"Apr 12, 2022 12:59 PM","Apr 12, 2022 12:59 PM"
+600,367,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,653,0,Not Used,Delivered,"Apr 16, 2022 5:59 PM","Apr 16, 2022 5:59 PM"
+601,368,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1039,0,Not Used,Delivered,"Apr 18, 2022 4:26 PM","Apr 18, 2022 4:26 PM"
+602,371,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1442,0,Not Used,Delivered,"Apr 28, 2022 3:39 PM","Apr 28, 2022 3:39 PM"
+603,373,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,461,0,Not Used,Delivered,"Apr 29, 2022 4:36 PM","Apr 29, 2022 4:36 PM"
+604,390,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,601,0,Not Used,Delivered,"Apr 30, 2022 11:27 AM","Apr 30, 2022 11:27 AM"
+605,375,553,Manjunath M,manjunath.m@varada.ooo,6366574282,paytm,Kadapa Swamy GHPS ಕಡಪ ಸ್ವಾಮಿ ಹೈಸ್ಕೂಲ್,402,0,Not Used,Delivered,"May 4, 2022 4:54 PM","May 4, 2022 4:54 PM"
+606,376,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1854,0,Not Used,Delivered,"May 4, 2022 10:35 PM","May 4, 2022 10:35 PM"
+607,378,480,priyanka v,priyanka.v@sampurna-bazaar.com,6366574285,paytm,pennya,4564,0,Not Used,Delivered,"May 5, 2022 3:10 PM","May 5, 2022 3:10 PM"
+608,379,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1039,0,Not Used,Delivered,"May 6, 2022 2:09 PM","May 6, 2022 2:09 PM"
+609,381,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1099,0,Not Used,Delivered,"May 9, 2022 4:48 PM","May 9, 2022 4:48 PM"
+610,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",119,0,Not Used,Refunded,"May 9, 2022 6:15 PM",No date
+611,380,553,Manjunath M,manjunath.m@varada.ooo,6366574282,paytm,Kadapa Swamy GHPS ಕಡಪ ಸ್ವಾಮಿ ಹೈಸ್ಕೂಲ್,0,0,Not Used,Delivered,"May 11, 2022 10:02 PM","May 11, 2022 10:02 PM"
+612,389,553,Manjunath M,manjunath.m@varada.ooo,6366574282,paytm,Kadapa Swamy GHPS ಕಡಪ ಸ್ವಾಮಿ ಹೈಸ್ಕೂಲ್,49,0,Not Used,Delivered,"May 12, 2022 11:04 AM",No date
+613,388,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",0,0,Not Used,Delivered,"May 16, 2022 3:46 PM","May 16, 2022 3:46 PM"
+614,387,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",60,0,Not Used,Delivered,"May 16, 2022 4:52 PM",No date
+615,391,553,Manjunath M,manjunath.m@varada.ooo,6366574282,paytm,VARADA INNOVATIONS PRIVATE LIMITED,0,0,Not Used,Delivered,"May 20, 2022 10:05 AM","May 20, 2022 10:05 AM"
+616,404,553,Manjunath M,manjunath.m@varada.ooo,6366574282,paytm,VARADA INNOVATIONS PRIVATE LIMITED,219,0,Not Used,Delivered,"May 20, 2022 10:34 AM",No date
+617,392,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,489,0,Not Used,Delivered,"May 21, 2022 2:35 PM","May 21, 2022 2:35 PM"
+618,394,591,Nareshkumar Mutha,nareshkumarmutha@gmail.com,9341279811,paytm,MANTRI GREENS,975,0,Not Used,Delivered,"May 22, 2022 7:24 PM","May 22, 2022 7:24 PM"
+619,393,603,meenu ,meenuasrani@hotmail.com,9880144447,paytm,Malleswaram,441,0,Not Used,Delivered,"May 22, 2022 9:08 PM","May 22, 2022 9:08 PM"
+620,395,154,Harshakavya ,harshakumarhp@gmail.com,9902214398,paytm,Kengeri satellite town ,600,0,Not Used,Delivered,"May 24, 2022 2:50 PM","May 24, 2022 2:50 PM"
+621,396,574,Shreyas ,ramushreyas06@gmail.com,9538554688,paytm,Mantri- Greens Apartment,782,0,Not Used,Delivered,"May 25, 2022 1:05 PM","May 25, 2022 1:05 PM"
+622,0,574,Shreyas ,ramushreyas06@gmail.com,9538554688,paytm,Mantri- Greens Apartment,74,0,Not Used,Refunded,"May 25, 2022 2:26 PM",No date
+623,398,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1359,0,Not Used,Delivered,"May 26, 2022 11:21 AM","May 26, 2022 11:21 AM"
+624,397,605,gopakumar ,jijiakshith11@gmail.com,9880501524,paytm,"255, 8th Cross Road",415,0,Not Used,Delivered,"May 26, 2022 12:28 PM","May 26, 2022 12:28 PM"
+625,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",260,0,Not Used,Refunded,"May 26, 2022 12:37 PM",No date
+626,399,607,supriya Naveen,supriyanaveen22@gmail.com,9902300233,paytm,Prince Town Apartment,452,0,Not Used,Delivered,"May 28, 2022 6:38 PM","May 28, 2022 6:38 PM"
+627,400,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1449,0,Not Used,Delivered,"May 30, 2022 4:43 PM","May 30, 2022 4:43 PM"
+628,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",20,0,Not Used,Refunded,"May 30, 2022 5:33 PM",No date
+629,401,609,Pooja Khatri,poojamotwani2003@gmail.com,9099080679,paytm,Jalahalli West,501,0,Not Used,Delivered,"May 31, 2022 11:55 AM","May 31, 2022 11:55 AM"
+630,0,609,Pooja Khatri,poojamotwani2003@gmail.com,9099080679,paytm,Jalahalli West,34,0,Not Used,Refunded,"May 31, 2022 1:05 PM",No date
+631,402,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1224,0,Not Used,Delivered,"May 31, 2022 3:38 PM","May 31, 2022 3:38 PM"
+632,403,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,0,0,Not Used,Delivered,"May 31, 2022 4:49 PM","May 31, 2022 4:49 PM"
+633,0,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,222,0,Not Used,Refunded,"May 31, 2022 5:44 PM",No date
+634,405,553,Manjunath M,manjunath.m@varada.ooo,6366574282,paytm,Kadapa Swamy GHPS ಕಡಪ ಸ್ವಾಮಿ ಹೈಸ್ಕೂಲ್,619,0,Not Used,Delivered,"Jun 3, 2022 5:20 PM","Jun 3, 2022 5:20 PM"
+635,0,553,Manjunath M,manjunath.m@varada.ooo,6366574282,paytm,Kadapa Swamy GHPS ಕಡಪ ಸ್ವಾಮಿ ಹೈಸ್ಕೂಲ್,39,0,Not Used,Refunded,"Jun 4, 2022 8:48 AM",No date
+636,408,659,Naveen Shankar,naveenshankar61@gmail.com,9742574527,paytm,Mahalakshmi Layout,2023,0,Not Used,Delivered,"Jun 4, 2022 10:33 AM","Jun 4, 2022 10:33 AM"
+637,406,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",0,0,Not Used,Delivered,"Jun 4, 2022 10:40 AM","Jun 4, 2022 10:40 AM"
+638,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",108,0,Not Used,Accepted,"Jun 4, 2022 1:48 PM",No date
+639,407,577,Jayanth Rao,jrao89@gmail.com,9900788956,paytm,Mantri- Greens Apartment,412,0,Not Used,Delivered,"Jun 6, 2022 12:09 AM","Jun 6, 2022 12:09 AM"
+640,409,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1234,0,Not Used,Delivered,"Jun 6, 2022 5:01 PM","Jun 6, 2022 5:01 PM"
+641,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",74,0,Not Used,Refunded,"Jun 6, 2022 5:52 PM",No date
+642,410,218,Archana Venugopal,archvenu18@gmail.com,9739403478,paytm,shettyhalli,552,0,Not Used,Delivered,"Jun 7, 2022 8:42 AM","Jun 7, 2022 8:42 AM"
+643,412,480,priyanka v,priyanka.v@sampurna-bazaar.com,6366574285,paytm,pennya,1032,0,Not Used,Delivered,"Jun 7, 2022 7:34 PM","Jun 7, 2022 7:34 PM"
+644,0,102,Praveen ,praveen.gupta@varada.ooo,9008484770,paytm,"Jalahalli West, Bangalore",8459,0,Not Used,New Order,"Jun 8, 2022 8:12 AM","Jun 8, 2022 8:12 AM"
+645,411,693,Bharath Kumar,bharath.kumar@sampurna-bazaar.com,6366557966,paytm,VARADA INNOVATIONS PRIVATE LIMITED,1140,0,Not Used,Delivered,"Jun 8, 2022 5:30 PM","Jun 8, 2022 5:30 PM"
+646,413,609,Pooja Khatri,poojamotwani2003@gmail.com,9099080679,paytm,Jalahalli West,1023,0,Not Used,Delivered,"Jun 9, 2022 9:38 AM","Jun 9, 2022 9:38 AM"
+647,414,480,priyanka v,priyanka.v@sampurna-bazaar.com,6366574285,paytm,"Freedom Fighters Colony, Laggere",523,0,Not Used,Delivered,"Jun 10, 2022 7:59 AM","Jun 10, 2022 7:59 AM"
+648,0,480,priyanka v,priyanka.v@sampurna-bazaar.com,6366574285,paytm,"Freedom Fighters Colony, Laggere",9,0,Not Used,Refunded,"Jun 10, 2022 7:26 PM",No date
+649,614,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",892,0,Not Used,Delivered,"Jun 12, 2022 10:37 AM","Jun 12, 2022 10:37 AM"
+650,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",129,0,Not Used,Refunded,"Jun 12, 2022 11:43 AM",No date
+651,615,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1415,0,Not Used,Delivered,"Jun 16, 2022 11:31 AM","Jun 16, 2022 11:31 AM"
+652,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",49,0,Not Used,Refunded,"Jun 16, 2022 12:43 PM",No date
+653,616,659,Naveen Shankar,naveenshankar61@gmail.com,9742574527,paytm,Mahalakshmi Layout,402,0,Not Used,Delivered,"Jun 16, 2022 2:39 PM","Jun 16, 2022 2:39 PM"
+654,617,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1557,0,Not Used,Delivered,"Jun 17, 2022 4:48 PM","Jun 17, 2022 4:48 PM"
+655,618,480,priyanka v,priyanka.v@sampurna-bazaar.com,6366574285,paytm,pennya,402,0,Not Used,Delivered,"Jun 21, 2022 6:18 PM","Jun 21, 2022 6:18 PM"
+656,0,480,priyanka v,priyanka.v@sampurna-bazaar.com,6366574285,paytm,pennya,84,100,Not Used,New Order,"Jun 23, 2022 10:44 AM","Jun 23, 2022 10:44 AM"
+657,619,480,priyanka v,priyanka.v@sampurna-bazaar.com,6366574285,paytm,pennya,1733,0,Not Used,Delivered,"Jun 23, 2022 10:44 AM","Jun 23, 2022 10:44 AM"
+658,0,480,priyanka v,priyanka.v@sampurna-bazaar.com,6366574285,paytm,pennya,482,0,Not Used,Refunded,"Jun 23, 2022 11:07 AM",No date
+659,620,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1620,0,Not Used,Delivered,"Jun 23, 2022 4:35 PM","Jun 23, 2022 4:35 PM"
+660,621,609,Pooja Khatri,poojamotwani2003@gmail.com,9099080679,paytm,Jalahalli West,725,0,Not Used,Delivered,"Jun 25, 2022 3:30 PM","Jun 25, 2022 3:30 PM"
+661,622,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",826,0,Not Used,Delivered,"Jun 26, 2022 4:30 PM","Jun 26, 2022 4:30 PM"
+662,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",203,0,Not Used,Refunded,"Jun 26, 2022 5:22 PM",No date
+663,623,674,krishna ,krishnavruparelia4u@gmail.com,9036668761,paytm,Jalvayu Heights,730,0,Not Used,Delivered,"Jun 29, 2022 11:08 AM","Jun 29, 2022 11:08 AM"
+664,705,659,Naveen Shankar,naveenshankar61@gmail.com,9742574527,paytm,Mahalakshmi Layout,425,0,Not Used,Delivered,"Jul 2, 2022 12:37 PM","Jul 2, 2022 12:37 PM"
+665,0,659,Naveen Shankar,naveenshankar61@gmail.com,9742574527,paytm,Mahalakshmi Layout,287,0,Not Used,Refunded,"Jul 2, 2022 1:53 PM",No date
+666,706,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1127,0,Not Used,Delivered,"Jul 2, 2022 2:07 PM","Jul 2, 2022 2:07 PM"
+667,707,609,Pooja Khatri,poojamotwani2003@gmail.com,9099080679,paytm,Jalahalli West,669,0,Not Used,Delivered,"Jul 2, 2022 3:25 PM","Jul 2, 2022 3:25 PM"
+668,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",159,0,Not Used,Refunded,"Jul 2, 2022 3:25 PM",No date
+669,0,609,Pooja Khatri,poojamotwani2003@gmail.com,9099080679,paytm,Jalahalli West,43,0,Not Used,Refunded,"Jul 2, 2022 5:21 PM",No date
+670,708,492,sampurna  Bazaar,delivery@sampurna-bazaar.com,6366574287,paytm,F F layout ,505,0,Not Used,Delivered,"Jul 2, 2022 5:58 PM","Jul 2, 2022 5:58 PM"
+671,709,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,843,0,Not Used,Delivered,"Jul 2, 2022 8:09 PM","Jul 2, 2022 8:09 PM"
+672,0,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,144,0,Not Used,Refunded,"Jul 3, 2022 10:15 AM",No date
+673,710,768,Raghunath Reddy,reddy.raghu8919@gmail.com,8919396546,sodexo,Signature Classic,526,0,Not Used,Delivered,"Jul 3, 2022 12:23 PM","Jul 3, 2022 12:23 PM"
+674,711,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",955,0,Not Used,Delivered,"Jul 7, 2022 5:37 PM","Jul 7, 2022 5:37 PM"
+675,712,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",312,0,Not Used,Delivered,"Jul 7, 2022 6:20 PM",No date
+676,713,56,Manjunath M,manjunath.2982@gmail.com,9986257842,paytm,Manjunath M,883,0,Not Used,Delivered,"Jul 8, 2022 9:14 PM","Jul 8, 2022 9:14 PM"
+677,714,609,Pooja Khatri,poojamotwani2003@gmail.com,9099080679,paytm,Jalahalli West,481,0,Not Used,Delivered,"Jul 10, 2022 6:56 PM","Jul 10, 2022 6:56 PM"
+678,715,480,priyanka v,priyanka.v@sampurna-bazaar.com,6366574285,paytm,pennya,537,0,Not Used,Delivered,"Jul 11, 2022 12:15 PM",No date
+679,722,781,Mohan Raj,mohan@praganiindustries.com,9036566667,paytm,V R Embroidery,31900,0,Not Used,Delivered,"Jul 13, 2022 2:28 PM","Jul 13, 2022 2:28 PM"
+680,721,781,Mohan Raj,mohan@praganiindustries.com,9036566667,paytm,V R Embroidery,30450,0,Not Used,Delivered,"Jul 13, 2022 2:32 PM","Jul 13, 2022 2:32 PM"
+681,716,154,Harshakavya ,harshakumarhp@gmail.com,9902214398,paytm,VARADA INNOVATIONS PRIVATE LIMITED,226,0,Not Used,Delivered,"Jul 14, 2022 12:08 PM","Jul 14, 2022 12:08 PM"
+682,0,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,843,0,Not Used,New Order,"Jul 14, 2022 12:25 PM","Jul 14, 2022 12:25 PM"
+683,0,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,562,0,Not Used,New Order,"Jul 14, 2022 12:35 PM","Jul 14, 2022 12:35 PM"
+684,720,154,Harshakavya ,harshakumarhp@gmail.com,9902214398,paytm,VARADA INNOVATIONS PRIVATE LIMITED,34,0,Not Used,Delivered,"Jul 14, 2022 12:53 PM",No date
+685,717,154,Harshakavya ,harshakumarhp@gmail.com,9902214398,paytm,VARADA INNOVATIONS PRIVATE LIMITED,364,0,Not Used,Delivered,"Jul 14, 2022 1:07 PM",No date
+686,0,154,Harshakavya ,harshakumarhp@gmail.com,9902214398,paytm,VARADA INNOVATIONS PRIVATE LIMITED,364,0,Not Used,Refunded,"Jul 14, 2022 2:15 PM",No date
+687,0,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,562,0,Not Used,New Order,"Jul 14, 2022 2:24 PM","Jul 14, 2022 2:24 PM"
+688,0,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,2628,0,Not Used,New Order,"Jul 14, 2022 2:26 PM","Jul 14, 2022 2:26 PM"
+689,0,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,876,0,Not Used,New Order,"Jul 14, 2022 2:50 PM","Jul 14, 2022 2:50 PM"
+690,0,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm-PPI,VARADA INNOVATIONS PRIVATE LIMITED,438,0,Not Used,Payment failed,"Jul 14, 2022 2:58 PM","Jul 14, 2022 2:58 PM"
+691,719,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",960,0,Not Used,Delivered,"Jul 14, 2022 4:46 PM","Jul 14, 2022 4:46 PM"
+692,0,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",122,0,Not Used,Refunded,"Jul 14, 2022 5:23 PM",No date
+693,0,144,Vaibhav Pathak,androcomputerhackes@gmail.com,8318045008,paytm,Kumar Princetown,438,0,Not Used,New Order,"Jul 14, 2022 7:01 PM","Jul 14, 2022 7:01 PM"
+694,723,157,Aabha ,ibsaabha@gmail.com,9845037012,paytm,"1& 2 Shettihalli cross , Jalahalli West ",1163,0,Not Used,Delivered,"Jul 18, 2022 4:43 PM","Jul 18, 2022 4:43 PM"
+695,724,768,Raghunath Reddy,reddy.raghu8919@gmail.com,8919396546,sodexo,Signature Classic,656,0,Not Used,Delivered,"Jul 20, 2022 1:45 PM","Jul 20, 2022 1:45 PM"

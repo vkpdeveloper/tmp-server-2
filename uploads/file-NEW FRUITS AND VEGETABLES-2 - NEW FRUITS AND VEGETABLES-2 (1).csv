@@ -1,0 +1,3 @@
+nothing,id,store_id,cover,name,images,original_price,sell_price,discount,kind,cate_id,sub_cate_id,in_home,is_single,have_gram,gram,have_kg,kg,have_pcs,pcs,have_liter,liter,have_ml,ml,descriptions,key_features,disclaimer,exp_date,type_of,in_stoke,rating,total_rating,status,in_offer,variations_types,size,tax_class,tags,hsn_code
+0,SB0039,49,SB0039.jpg,Mango Senduran,"[""SB0039.jpg"","""","""","""","""",]",220,200,10,1,1,22,0,0,0,0,0,0,0,0,0,0,0,0,,,,20-12-2050,0,1,5,4,1,0,[1000|500|250],1,0,107,0
+0,SB0040,49,SB0040.jpg,Grapes Black Seedless,"[""SB0040.jpg"","""","""","""","""",]",138,125,10,1,1,22,0,0,0,0,0,0,0,0,0,0,0,0,,,,20-12-2050,0,1,5,4,1,0,[1000|500|250],1,0,86,0

@@ -1,0 +1,1092 @@
+id,name,status,sub_cate_id
+15,edible oil,1,140
+17,pillsbury,1,24
+23,aashirvaad,1,24
+36,mtr,1,24
+77,vijay,1,24
+85,lion dates,1,26
+94,sri bhagyalakshmi ,1,24
+95,annapurna,1,24
+96,mdh,1,27
+98,atta 5kg,1,24
+142,kesari,1,24
+145,knorr,1,101
+161,bsf,1,27
+171,riddi siddi,1,24
+194,daawat,1,75
+206,madhur,1,28
+210,india gate,1,75
+278,sugar free,1,28
+286,daurala,1,28
+342,ganesh,1,24
+375,nutraj,1,27
+455,akar,1,28
+459,atta,1,24
+473,dabur,1,75
+475,svt,1,27
+488,chicken masala,1,27
+517,sri lakshmi srinivasa,1,24
+518,rajdhani,1,24
+546,masti,1,41
+583,ruchi,1,140
+696,idy rawa,1,24
+722,24 organic foods,1,24
+772,dizzle,1,27
+822,kurmura,1,24
+830,l.g,1,27
+870,fine food,1,27
+871,sooji,1,24
+872,fenugreek,1,27
+873,rawa,1,24
+874,pro nature,1,27
+875,eastern,1,27
+877,fortune,1,140
+878,coconut powder,1,27
+879,on1y,1,27
+880,fine life,1,27
+881,aachi,1,27
+882,ginger & garlic paste,1,27
+884,dnv,1,101
+885,vivatta,1,24
+886,rice flour,1,24
+887,salt,1,28
+888,nature,1,35
+889,cashew,1,27
+890,naturally,1,24
+925,regency,1,26
+940,fried gram,1,24
+941,oats flour,1,24
+942,jowar,1,24
+943,bajra,1,24
+944,dates,1,26
+945,nutty,1,26
+946,klf,1,140
+947,golden,1,24
+948,sri bhagyalakshmi,1,24
+949,hapillo,1,26
+950,premium,1,75
+951,sunflower seed,1,27
+952,loose items,1,24
+953,dilbahars,1,27
+954,puliyogare powder,1,27
+955,rice flakes,1,27
+956,kasoori meeth,1,27
+957,turmeric powder,1,27
+958,lal mirch,1,27
+959,dhaniya powder,1,27
+960,white flour,1,27
+961,maize,1,24
+962,spices powder,1,27
+963,pumpkin seeds,1,27
+964,wheat flour,1,24
+965,chakki fresh atta,1,24
+966,soya chunks,1,27
+967,rasam powder,1,27
+968,tamarind,1,27
+969,black pepper,1,27
+970,cumin,1,27
+971,jeera,1,27
+972,hing,1,27
+973,chutney powde,1,27
+974,pepper,1,27
+975,amchur powder,1,27
+976,avalaki,1,24
+977,puttu podi,1,24
+978,mirchi,1,27
+979,kabab masala,1,27
+980,kolam rice,1,75
+981,vanaspati,1,140
+982,corn daliya,1,24
+983,chilli,1,27
+984,cloves,1,27
+985,fennel seed,1,27
+986,mouth freshner,1,27
+987,birani pulau msla,1,27
+988,shahi paneer,1,27
+989,puffed rice,1,75
+990,sago,1,27
+991,flax,1,27
+992,methi seeds,1,27
+993,maize flour,1,24
+994,cinnamon,1,27
+995,sesame,1,27
+996,seasoning powder,1,27
+997,flakes,1,39
+998,rawa 1kg,1,24
+999,clove,1,27
+1000,sambar powder,1,27
+1009,coconut,1,48
+1010,foxtail millet,1,24
+1058,saffron,1,38
+1073,aki hittu,1,24
+1089,rock salt,1,28
+1117,cardamom,1,27
+1122,raisin,1,26
+1144,melon seeds,1,27
+1170,kaju,1,43
+1174,javitri,1,27
+1179,kalonji,1,27
+1182,poppy seeds,1,27
+1194,anise,1,27
+1196,jaiphal,1,27
+1197,idiyappam flour,1,24
+1198,kabuli,1,25
+1213,apricot,1,26
+1221,prunes,1,43
+1223,cranberry,1,35
+1290,gram flour,1,24
+1314,atta 1kg,1,24
+1319,jower flour,1,24
+1347,chana atta,1,24
+1482,buman dates,1,26
+1490,kheniji dates,1,26
+1495,chai seeds,1,26
+1557,lobia,1,25
+1558,rice 10kg,1,75
+1559,sugar 1kg,1,28
+1560,sugar 5kg,1,28
+1819,atta 10kg,1,23
+1820,peacock dates,1,26
+1821,walnut,1,26
+1822,bansi sooji,1,24
+1823,muzafati dates,1,26
+1824,phool makhana ,1,26
+1826,nut & berries,1,26
+1827,kala namka,1,28
+1828,palak panner,1,27
+1829,pav bhaji,1,27
+1877,garam masala,1,27
+1878,anjeer,1,26
+1880,anardana goli,1,27
+1883,imil laddu,1,27
+1885,jeera goil,1,27
+1910,ama goli,1,27
+1911,atta 2kg,1,24
+1912,lion dates 200g pouch,1,26
+1913,lion dates 500g pouch,1,26
+1914,thin flakes,1,24
+1915,thick flakes,1,24
+1916,coriander,1,23
+1917,pure sugar,1,28
+1918,low calorie sweetner,1,28
+1919,garlic,1,23
+1920,shahjeera,1,27
+1921,asafoetida,1,27
+1922,steam less chilli,1,27
+1923,bolied rice,1,75
+1924,organic sugar,1,28
+1925,saunf,1,27
+1926,flax seeds,1,27
+1927,dalchini,1,27
+1928,rawa 2kg,1,24
+1929,lavanga,1,27
+1930,coconut per pc,1,24
+1931,gundu chilli,1,24
+1932,elaichi,1,36
+1933,khus khus,1,27
+1934,pumpkin 1pc,1,27
+1935,soya beans,1,23
+1936,ragi,1,24
+1937,paste,1,109
+1938,sprouts ,1,23
+1939,sprouts 50g,1,23
+1940,sprouts 200g,1,23
+1941,sweet corn 350g,1,23
+1942,sweet corn 450g,1,23
+1943,apple 1kg,1,22
+1944,apple 2kg,1,22
+1945,banana 1kg,1,22
+1946,banana 2kg,1,22
+1947,banana in fresh fruits,1,22
+1948,baby corn,1,23
+1949,beans,1,23
+1950,beans 1kg,1,23
+1951,beans 500g,1,23
+1952,beans 2kg,1,23
+1953,organic vegetables,1,21
+1954,trikaya organic vegetable 250g,1,21
+1955,trikaya organic vegetable 100g,1,21
+1956,trikaya organic vegetable 50g,1,21
+1957,potato 1kg,1,23
+1958,potato 2kg,1,23
+1959,carrot 1kg,1,23
+1960,carrot 500g,1,23
+1961,garlic 500g,1,23
+1962,garlic 1kg,1,23
+1963,ginger 250g,1,23
+1964,gignger 500g,1,23
+1965,tomoto,1,23
+1966,tomoto 1kg,1,23
+1967,tomoto 2kg,1,23
+1968,onion 1kg,1,23
+1969,onion 2kg,1,23
+1970,brinjal ,1,23
+1971,brinjal 250g,1,23
+1972,brinjal 500g,1,23
+1973,brinjal 1kg,1,23
+1974,cabbage per pc,1,23
+1975,bottle gourd,1,23
+1976,ridge gourd,1,23
+1977,cucumber,1,23
+1978,cucumber 1kg,1,23
+1979,cucumber 2kg,1,23
+1980,capsicum,1,23
+1981,capsicum 500g,1,23
+1982,capsicum 1kg,1,23
+1983,grapes 500g,1,22
+1984,grapes 1kg,1,22
+1985,water melon,1,22
+1986,water melon per pc,1,22
+1987,orange 1kg,1,22
+1988,orange 2kg,1,22
+1989,curry leaves,1,23
+1990,curry leaves bunch,1,23
+1991,methi leaves,1,23
+1992,methi leaves bunch,1,23
+1993,mint leaves,1,23
+1994,mint leaves bunch,1,23
+1995,palak leaves,1,23
+1996,palak leaves bunch,1,23
+1997,coriander leaves bunch,1,23
+1998,mango 2kg,1,22
+1999,lemon grass,1,21
+2000,lettuce,1,21
+2001,lettuce ice,1,21
+3088,mushroom,1,23
+3089,lady finger,1,23
+3090,amla 250g,1,23
+3091,amla 500g,1,23
+3092,avocado,1,22
+3093,beetroot,1,23
+3095,blueberry,1,22
+3096,cauliflower1pc,1,23
+3097,drumstick1pc,1,23
+3098,endive,1,21
+3099,fig fruit 9pc,1,22
+3100,pear,1,22
+3101,kiwi 1pc,1,22
+3102,plums,1,22
+3103,musk melon 1pc,1,22
+3104,papaya 1pc,1,22
+3105,parval ,1,22
+3106,parval 500g,1,22
+3107,mosambi 1kg,1,22
+3999,mosambi 2kg,1,22
+4416,pomegranate ,1,22
+4554,pomegranate 500g,1,22
+4567,pomegranate 1kg,1,22
+4568,radish,1,23
+4569,radish 1kg,1,23
+4570,radish 500g,1,23
+4608,sapota,1,22
+4609,chikoo,1,22
+4610,sapota 1kg,1,22
+4611,strawberry,1,2
+4612,yam 1pc,1,23
+4613,zucchini,1,21
+4614,chicken nuggets,1,58
+4615,yummiez,1,59
+4616,pizza,1,32
+4617,venky's,1,59
+4618,mutton 1kg,1,58
+4619,mutton 2kg,1,58
+4620,eggs meat & fish,1,58
+4621,chicken 1kg,1,58
+4622,chicken 2kg,1,58
+4623,chicken tandoori,1,58
+4624,fish & sea food,1,57
+4625,meatzza,1,103
+4626,fish 1kg,1,57
+4627,fish 2kg,1,57
+4628,sundrop,1,140
+4629,chiroti,1,24
+4630,b&p,1,60
+4631,horse gram,1,25
+4632,gaia,1,39
+4633,breads & buns,1,30
+4634,galaxy,1,40
+4635,bagrrys,1,39
+4636,baker street,1,30
+4637,baskin robbins,1,33
+4638,bauli,1,38
+4639,britannia,1,38
+4640,cadbury,1,99
+4641,cavin,1,32
+4642,cream pot,1,32
+4643,dairy tales,1,33
+4644,dutchie yoghurt,1,32
+4645,elite,1,40
+4646,epigamia,1,32
+4647,fun foods,1,44
+4648,good life,1,51
+4649,gone,1,38
+4650,happy milk ,1,38
+4651,havmor,1,32
+4652,lactel,1,32
+4653,jersey,1,32
+4654,london dairy,1,33
+4655,milklane,1,32
+4656,milky mist,1,32
+4657,namdhari,1,32
+4658,nesta,1,36
+4659,nic,1,32
+4660,nutralite,1,44
+4661,pediasure,1,99
+4662,president,1,32
+4663,ribbon,1,30
+4664,rich whip,1,32
+4665,so good ,1,32
+4666,sofit ,1,32
+4667,staeta,1,32
+4668,the laughing cow ,1,32
+4669,thirumala,1,32
+4670,winkies,1,30
+4671,yakult,1,32
+4672,fresh cream,1,32
+4673,lassi,1,32
+4674,rusk,1,31
+4675,yogurt,1,35
+4676,puf roll,1,43
+4677,topping,1,44
+4678,3roses,1,36
+4679,7up,1,34
+4680,again ,1,35
+4681,alofrut,1,35
+4682,appy fizz,1,34
+4683,apsara,1,36
+4684,aquafina,1,37
+4685,bayar,1,98
+4686,brooke bond,1,36
+4687,coca cola,1,34
+4688,coke,1,34
+4689,complan,1,99
+4690,cothas,1,98
+4691,diet coke,1,34
+4692,eco valley,1,36
+4693,ensure,1,99
+4694,fanta,1,34
+4695,frooti,1,35
+4696,glucon d,1,35
+4697,heineken,1,34
+4698,id filter,1,39
+4699,king fisher,1,34
+4700,kinley,1,37
+4701,lal pan,1,40
+4702,lehar,1,34
+4703,levista,1,98
+4704,lipton,1,36
+4705,marvel,1,36
+4706,minute maid,1,35
+4707,mirinda,1,34
+4708,mrs foodrite,1,44
+4709,natures first,1,35
+4710,nescafe,1,98
+4711,pepsi,1,34
+4712,roohafza,1,35
+4713,ruby dust,1,36
+4714,schweppes,1,34
+4715,sprite,1,34
+4716,taj mahal ,1,36
+4717,tang,1,35
+4718,te a me ,1,36
+4719,tetley,1,36
+4720,thums up,1,34
+4721,tropicana,1,35
+4722,twinings,1,36
+4723,typhoo,1,36
+4724,wagh bakri,1,36
+4725,tonic water,1,34
+4726,ice tea,1,36
+4727,glucose powder,1,38
+4728,café,1,98
+4729,soda,1,34
+4730,non alcoholic,1,34
+4731,garden,1,43
+4732,a1,1,43
+4733,packed sweets,1,38
+4735,act,1,43
+4736,adicto,1,40
+4737,aloo,1,43
+4738,alpenliebe,1,40
+4739,ats,1,43
+4740,azad,1,41
+4741,baggrys,1,39
+4742,bambino,1,41
+4743,best foods ,1,44
+4744,bingo chips,1,43
+4745,bitterguard chips,1,43
+4746,bombay mixture,1,43
+4747,borges pasta,1,140
+4748,boomer,1,40
+4749,bounty,1,40
+4750,bournville,1,40
+4751,git snack mix,1,101
+4752,candyman,1,40
+4753,centerfruit,1,40
+4754,chef basket,1,41
+4755,chitale,1,43
+4756,choki choki,1,40
+4757,chupa chups,1,40
+4758,coca cado,1,34
+4759,coffee joy ,1,38
+4760,daadi,1,43
+4761,dabee,1,42
+4762,del monte,1,62
+4763,diet food,1,34
+4764,grb,1,140
+4765,doritos nacho,1,43
+4766,eti,1,40
+4767,fabelle,1,40
+4768,frylo,1,43
+4769,halls,1,40
+4770,happydent,1,40
+4771,hasiru batter,1,39
+4772,heinz,1,44
+4773,id fresh food,1,39
+4774,indian gravy,1,101
+4775,iyer papad,1,101
+4776,jabson namkeen,1,43
+4777,kelloggs,1,39
+4778,kim original noodles,1,41
+4779,kissan ,1,44
+4780,koka,1,41
+4781,kopiko,1,40
+4782,kurkere,1,43
+4783,lays,1,43
+4784,lijjat papad,1,101
+4785,luv it,1,40
+4786,maggi 2 minute,1,44
+4787,makino nacho chips,1,43
+4788,malkist,1,38
+4789,mangaram,1,40
+4790,mcvities,1,38
+4791,meal time,1,44
+4792,milky bar,1,32
+4793,dosa mix,1,75
+4794,makeup,1,106
+4795,femmine hygiene,1,46
+4796,oral care,1,109
+4797,health and medicine,1,107
+4798,chatpat masala,1,41
+4799,apple viniger,1,22
+4800,egg less mayonnaise,1,44
+4801,mead johnson,1,64
+4802,phool,1,75
+4803,paiya fish,1,57
+4804,fresh sole,1,57
+4805,croacker,1,57
+4806,lady fish,1,57
+4807,pearl spot,1,57
+4808,atlantic salmon,1,57
+4809,sea bass,1,57
+4810,seer steeks,1,57
+4811,blue crab,1,57
+4812,pungus,1,57
+4813,barra chuda,1,57
+4814,sardine,1,57
+4815,red snapper,1,57
+4816,tuna,1,57
+4817,tiger prawns,1,57
+4818,mullet,1,57
+4819,squid,1,57
+4820,sea prawn's,1,57
+4821,mutton liver,1,58
+4822,gowardhan,1,32
+4823,milky mist paneer cube,1,32
+4824,paneer cube,1,22
+4825,kids tooth paste,1,22
+4826,boiler chicken ,1,58
+4827,silver fish,1,24
+4828,malabar travlly,1,57
+4829,atl salmon,1,57
+4830,sliver belli,1,57
+4831,rock lobster,1,57
+4832,country chicken,1,43
+4833,kadaknath chicken whole(approx 1kg to 1.5kg),1,43
+4834,herbs rosemary,1,21
+4835,herbs thyme,1,21
+4836,lettuce red,1,21
+4837,parsley,1,21
+4838,organic vegetable,1,25
+4839,bakery biscuits,1,24
+4840,cavins,1,32
+4841,d'lecta,1,32
+4842,dlecta cream,1,32
+4843,go,1,32
+4844,palmo,1,101
+4845,mozzarella cheese,1,32
+4846,curd,1,32
+4847,b natural,1,35
+4848,red bull,1,34
+4849,rioba,1,98
+4850,fruit juice,1,35
+4851,frozen snacks,1,103
+4852,asap,1,40
+4853,muruku,1,43
+4854,chings,1,44
+4855,karachi bakery,1,38
+4856,lotte choco,1,30
+4857,mccain,1,103
+4858,metro chef,1,51
+4859,skin care,1,45
+4860,hair care,1,48
+4861,gourmet & world food,1,60
+4862,oil and viniger,1,61
+4863,happy milk,1,38
+4864,the laughing cow,1,32
+4865,itc ,1,103
+4866,oleev,1,140
+4867,dhai,1,32
+4868,french fries,1,103
+4869,alphabytes,1,103
+4870,olive oil,1,140
+4871,pomace oilive oil,1,140
+4872,extra vergin olive oil,1,140
+4873,coconut cookies,1,38
+4874,shampoo,1,48
+4875,orange juice,1,35
+4876,all purpose cleaners,1,20
+4877,safoo,1,20
+4878,salted pista,1,26
+4879,cleaner lime,1,20
+4880,meat wash,1,20
+4881,vegetable wash,1,20
+4882,fruits wash,1,20
+4883,"disposables, garbadge bag",1,20
+4884,penly,1,20
+4885,origami,1,114
+4886,germisol,1,20
+4887,moong whole,1,25
+4888,green moong,1,23
+4889,gauva juice,1,35
+4890,fresh juices,1,35
+4891,litchi juices,1,35
+4892,apple juice,1,35
+4893,digestive biscuits,1,38
+4894,mother's choice,1,75
+4895,kaveri bullet,1,75
+4896,h xxxl,1,75
+4897,v gopal,1,75
+4898,ambatis,1,75
+4899,maski bullet,1,75
+4900,kissan premium,1,44
+4901,kesar gold,1,75
+4902,bullet rice,1,75
+4903,kollam jeera rice,1,75
+4904,biryani rice,1,75
+4905,detergents & diswash,1,20
+4906,"mops, brushes & scrubs",1,20
+4907,"kitchen,garden and pets",1,55
+4908,pet food accessories,1,55
+4909,littles comfy,1,65
+4910,ariel,1,50
+4911,bazana,1,26
+4912,black,1,27
+4913,buffet,1,103
+4914,chappi,1,55
+4915,dlicia,1,32
+4916,drools,1,55
+4917,fresh2go,1,103
+4918,gala,1,52
+4919,genteel,1,50
+4920,home roots,1,103
+4921,indian,1,101
+4922,ipc,1,103
+4923,itc,1,103
+4924,lever ayush,1,49
+4925,metro,1,51
+4926,mirabella,1,49
+4927,mysore sandal,1,45
+4928,naigra,1,32
+4929,neutrogena,1,49
+4930,pedigree,1,55
+4931,purepet,1,55
+4932,purina,1,55
+4933,republic,1,103
+4934,rich's,1,32
+4935,riobba,1,114
+4936,sanjay,1,101
+4937,sankethi adukale,1,43
+4938,scotch brite,1,52
+4939,star rider,1,34
+4940,sunlight,1,50
+4941,temptations,1,55
+4942,tide,1,50
+4943,triveni,1,103
+4944,ujala,1,50
+4945,uniwash,1,50
+4946,woosh,1,50
+4947,ru nutz,1,26
+4948,molasi's,1,26
+4949,cashew split,1,26
+4950,salted cashew,1,27
+4951,cashew split 1kg,1,26
+4952,cashew split 500g,1,26
+4953,whip topping,1,32
+4954,mixture,1,43
+4955,kodu bale,1,43
+4956,khara boondi,1,43
+4957,khara om pudi,1,43
+4958,chivada,1,43
+4959,nippattu,1,43
+4960,pepper avalakki,1,43
+4961,mysore sandals liquid,1,45
+4962,detergent bar soap,1,45
+4963,face mask,1,49
+4964,facial mask,1,49
+4965,face cream,1,49
+4966,moisturizer cream,1,49
+4967,kajol,1,49
+4968,kajal,1,106
+4969,face scrub,1,49
+4970,skin toner,1,49
+4971,ultra sheer,1,49
+4972,deep cleanser,1,49
+4973,moisturizing beauty gel,1,49
+4974,ujala liquid,1,50
+4975,liquid detergent,1,50
+4976,washomatic 1 ltr,1,49
+4977,mop,1,52
+4978,wiper,1,52
+4979,scrrubber,1,49
+4980,puppy chicken milk,1,55
+4981,dog calcium bone,1,55
+4982,aloo paratha,1,43
+4983,fryums,1,101
+4984,naan,1,43
+4985,wheat chapathi,1,24
+4986,tortilla,1,103
+4987,veg moms,1,103
+4988,baby food & formula,1,64
+4989,mead johnson enafamil,1,64
+4990,baby food stage 1,1,64
+4991,facial tissue,1,49
+4992,tissue roll,1,114
+4993,disposable plate,1,114
+4994,disposable blow,1,114
+4995,napkins,1,114
+4997,aloo tikki,1,43
+4998,nutraj daily raisins 500 g,1,27
+4999,asal,1,39
+5001,panner chilli masala,1,27
+5003,ber fruit,1,22
+5004,bread,1,29
+5006,anise star loose ,1,27
+5007,detergent powder,1,50
+5008,catch chicken masala 100 g,1,27
+5010,catch cumin powder 100 g,1,27
+5011,cinnamon powder,1,27
+5012,dodla,1,32
+5013,garlic herb bread seasoning,1,27
+5015,dreamery,1,32
+5016,catch turmeric powder 200 g,1,27
+5018,white til loose,1,27
+5019,piri piri seasoning,1,27
+5021,ginger garlic paste ,1,27
+5022,mutter paneer masala,1,27
+5024,pasta masala,1,27
+5026,peri peri masala,1,27
+5027,face wash,1,49
+5028,parry sugar,1,28
+5030,basamati rice,1,75
+5031,biriyani rice,1,75
+5032,santoor hand wash,1,45
+5033,savlon hand wash,1,45
+5034,yardely hand wash,1,45
+5035,palmolive hand wash,1,45
+5036,hygienix hand wash,1,45
+5037,skinstone hand wash,1,45
+5038,fine life hand wash,1,51
+5039,panner fruit,1,22
+5040,passion fruit,1,22
+5041,mango kalapaud,1,22
+5042,mango - raspuri,1,22
+5043,mango sugar baby,1,22
+5044,mango mallika,1,22
+5045,mango alphonso,1,22
+5046,mango badami,1,22
+5047,mango kesar,1,22
+5048,mango dasheri,1,22
+5049,apple washington,1,22
+5050,musk melon melody,1,22
+5051,orange kinnow,1,24
+5052,pomelo,1,22
+5053,orange mandarin,1,24
+5054,apple rose,1,22
+5055,soursop,1,22
+5056,peach,1,22
+5057,cherry,1,141
+5058,jamun,1,22
+5059,cucumber white,1,23
+5060,almond premium loose,1,26
+5061,cashew premium loose,1,26
+5062,cashew split 2 pc loose,1,26
+5063,cashew split 8 pc loose,1,26
+5064,charmagaz loose,1,26
+5065,dry dates loose,1,26
+5066,dry fig loose,1,26
+5067,pistachio green loose,1,26
+5068,pistachio salted loose,1,26
+5069,raisin popular loose,1,26
+5070,soya wadi loose,1,24
+5071,walnut whole loose,1,26
+5072,heritage,1,32
+5073,milk lane ,1,38
+5074,christmas cake,1,60
+5075,plum cake,1,47
+5076,pudding cake,1,60
+5077,gadre,1,103
+5078,gadre ethnic entrees prawn chettinad curry 380 g,1,103
+5079,gadre ethnic entrees prawn hariyali masala 380 g,1,103
+5080,goeld diliwali dal aloo tikki 320 g,1,103
+5081,goeld soya shami kebab 240 g,1,103
+5082,id wheat parota 5no,1,39
+5083,id malabar parota 5 no,1,39
+5084,id malabar parota super saver 1ono,1,39
+5085,asal wheat parota 350g,1,39
+5086,asal chapati 200g,1,39
+5087,asal malabar parota 350g,1,39
+5088,asal coin parota 180g,1,39
+5089,chettinad curry,1,27
+5090,hariyali masala ,1,27
+5091,shami kebab,1,27
+5092,wheat parota 5pc,1,24
+5093,malabar porota ,1,57
+5094,coin porota,1,32
+5095,bombay shaving company,1,43
+5096,beardinator anti ,1,108
+5097,the man company,1,20
+5098,more light,1,50
+5099,berdo,1,108
+5100,fresh ones,1,57
+5101,beard oil,1,20
+5102,intimate wash,1,46
+5103,lemon shaving foam ,1,23
+5104,red onion hair oil,1,57
+5105,natural bringaraj hair oil,1,28
+5106,green tea aloe vera hair conditioner,1,23
+5107,anti dandruff hair cleanser,1,48
+5108,hair wax crystal wax,1,48
+5109,daily shave care kit,1,20
+5110,fenugreek & flaxseed hair wax ,1,108
+5111,fitkari after shave gel,1,108
+5112,onion & bringraj hair growth oil,1,23
+5113,pure leather shaving brush,1,44
+5114,shaving cream charcoal ,1,108
+5115,kitchen towels,1,111
+5116,baby bath and hygenic,1,23
+5117,potato chips masala loose,1,23
+5118,potato chips solt loose,1,23
+5119,bombay mixture loose,1,43
+5120,groundnut congress loose,1,43
+5121,khara boondi loose,1,43
+5122,snacks in loose,1,43
+5123,tooth paste,1,109
+5124,johnson's baby products,1,63
+5125,mamaearth,1,63
+5126,johnson's,1,63
+5127,morrison's,1,63
+5128,cetaphil,1,63
+5129,nutricia,1,64
+5130,baby lotion,1,64
+5131,baby bar,1,64
+5132,baby hair oil,1,64
+5133,baby powder,1,64
+5134,baby accessories,1,64
+5135,shampoo for babies,1,63
+5136,baby food,1,64
+5137,cardamom seed powder,1,27
+5138,mexican seasoning,1,27
+5139,paprika powder,1,27
+5140,catch ginger garlic paste 200 g,1,27
+5141,catch ginger paste 100 g,1,27
+5142,chicken chilli masala,1,27
+5143,skinstone,1,45
+5144,grapes,1,22
+5145,aashirvad,1,24
+5146,cif,1,20
+5147,khadi organique,1,49
+5148,emasol,1,20
+5149,modern,1,40
+5150,hygienix,1,45
+5151,nestle,1,40
+5152,luxor nano,1,20
+5153,oleev extra light olive oil 500 ml pet,1,140
+5154,nimwash,1,45
+5155,only,1,101
+5156,paneer,1,22
+5157,organic tattva,1,25
+5158,veg fried masala,1,27
+5159,safal,1,104
+5160,daliya,1,25
+5161,taina,1,114
+5162,smith & jones,1,27
+5163,tissue,1,114
+5164,stop o ,1,20
+5165,pedigree dentastix,1,55
+5166,lal,1,40
+5167,unibic,1,38
+5168,steam rice,1,75
+5169,bili batani,1,25
+5170,festival sweets,1,102
+5171,ladu,1,102
+5172,mysore pak,1,40
+5173,peda,1,62
+5174,sona papdi,1,40
+5175,grapes red globe california 500g,1,22
+5176,bombay sojji,1,43
+5177,white peas,1,25
+5178,pro nature organic walnut 200 g,1,26
+5179,catch garam masala 100 g,1,27
+5180,catch meat masala 100 g,1,27
+5181,catch red chilli powder 200 g,1,27
+5182,nutraj amarican dried cranberries 180 g,1,26
+5183,duck,1,58
+5184,fresh fish,1,57
+5185,rabbit,1,58
+5186,turkey,1,58
+5188,sweets ,1,102
+5189,gits sweets,1,101
+5190,gift biscuits,1,38
+5191,haldirams,1,43
+5192,grb ,1,140
+5193,unity,1,75
+5194,gud jaggery,1,28
+5195,boiler chicken,1,58
+5196,boiler chicken liver,1,58
+5197,chicken gizzard,1,58
+5198,id,1,39
+5199,act ii in groceries,1,44
+5201,all out in repellents,1,124
+5202,alovera juices in alo,1,51
+5203,ambrane pw-18 10000 mah wireless power bank,1,36
+5204,american tourister spinner 55cm tsa b blue,1,68
+5205,appy fizz juice in bevrages,1,71
+5206,baggrys in oats,1,24
+5207,banana - nendran,1,20
+5208,brinjal - round suphal,1,39
+5209,cardamom in masala and spcies,1,39
+5210,cat food in pet food,1,38
+5211,cetaphil in baby cream,1,27
+5212,chilli - bajji,1,55
+5213,cumin seeds in groceries,1,63
+5214,disco pumpkin,1,23
+5215,double - beans,1,32
+5216,dry apricot in groceries,1,55
+5217,duracell in electricals,1,55
+5218,"eveready 1015 aa batteries(1pc, pack of 120)",1,112
+5219,fair and lovely men's instant fairness face wash 50 g,1,68
+5220,gangajal 200ml,1,68
+5221,garnier men oil clear face wash 100 g,1,52
+5222,godrej real good yummiez cheese corn nuggets 400 g,1,48
+5223,godrej real good yummiez cheese fingers 400 g,1,55
+5224,godrej real good yummiez chicken nuggets,1,103
+5225,godrej real good yummiez chicken popcorn 400 g,1,103
+5226,handbags in luggages & leisure bags,1,103
+5227,head & shoulders in personal care,1,103
+5228,himalaya in pet accessories,1,103
+5229,himalaya men pimple clear neem face wash 100 ml,1,71
+5230,id idli  dosa batter 1 kg,1,39
+5231,id in coffee,1,48
+5232,jblcb t50hi black,1,97
+5233,johnson's in baby lotion,1,44
+5234,lavie handbags,1,55
+5235,lavie hder695037m3 wodehouse ew tote-plastic handbag,1,98
+5236,lavie hder695154m3 wodehouse ew tote-plastic handbag,1,68
+5237,lavie hdes798019m3 adelajda med hz tote-plastichandbag,1,63
+5238,lavie hdes798078m3 adelajda med hz tote-plastichandbag,1,20
+5239,lavie hdes798106m3 adelajda med hz tote-plastichandbag,1,71
+5240,lavie hdfb626033m3 odiase med sat 2c-plastic handbag,1,118
+5241,lavie hdfb626240m3 odiase med sat 2c-plastic handbag,1,118
+5242,lavie hdfd765018m3 bardsey med dome sat-plastichandbag,1,118
+5243,lavie hdfd765073m3 bardsey med dome sat-plastichandbag,1,118
+5244,lavie hdfd765096m3 bardsey med dome sat-plastichandbag,1,118
+5245,lavie hefq068083m4 cassie lg satchel- ladies handbag,1,118
+5246,lavie hefq068096m4 cassie lg satchel- ladies handbag,1,118
+5247,lavie hxdc517020n2 redwood sm tote - plastic handbag,1,118
+5248,lavie hxdc517095n2 redwood sm tote - plastic handbag,1,118
+5249,lavie hxes456040n4 sally lg hobo - plastic handbag,1,118
+5250,lavie hxes456042n4 sally lg hobo - plastic handbag,1,118
+5251,lavie hxfc480021n3 barbara med ew tote-plastic handbag,1,118
+5252,lavie hxfc480036n3 barbara med ew tote-plastic handbag,1,118
+5253,laxmi bhog atta in groceries,1,118
+5254,lemon grass in fresh leafy vegetables,1,118
+5255,madhur sugar in groceries,1,118
+5256,mango raw,1,118
+5257,mango totapuri,1,118
+5258,moong dal in namkeens,1,118
+5259,nivea in body lotion,1,97
+5260,nivea men oil control all in one face wash 100 g,1,51
+5261,nutty gritties in groceries,1,43
+5262,ogio - mx goggle box bolsa de moto exterior b stealth,1,51
+5263,ogio alpha core con 120 backpack b olive,1,39
+5264,ogio by callaway luggages & leisure bags,1,71
+5265,ogio by callaway shoulder bag,1,71
+5266,orange nagpur,1,24
+5267,orange navel in fruits,1,117
+5268,orange valecia,1,125
+5269,palmolive lhw blck orchd 185ml,1,125
+5270,palmolive lumrejfigoil hw500ml,1,71
+5271,pet food in groceries,1,125
+5272,pond's white beauty tan removal face scrub50 g,1,68
+5273,prestige 40563 gold hobtop 3 burner ai b phtg 03,1,55
+5274,pumpkin - sweet,1,50
+5275,pumpkin seeds in groceries,1,55
+5276,raisin in dry fruits in groceries,1,22
+5277,scotch brite broom1 pc,1,74
+5278,st.ives face scrub lemon 170g,1,26
+5279,stayfree secure cottony regular20 pc,1,26
+5280,sunfeast cream butter scotch biscuits ,1,38
+5281,sunfeast glucose 32g (pack of 24),1,73
+5282,sunfeast marie 1 kg,1,38
+5283,sunfeast marie light oat biscuits 200 g,1,38
+5284,sunfeast marie light oats biscuits(120g pack of 5),1,38
+5285,sunfeast special elachi cream 82g (pack of 12),1,38
+5286,trikaya  thai bird chilli 20g,1,38
+5287,usha ebony 4001,1,38
+5288,vangibath masala in masala and spcies,1,38
+5289,venky chicken nuggets 500 g,1,38
+5290,venkys chicken burger patty 50 g (pack of 20),1,38
+5291,venkys chicken hariyali kabab 500g,1,38
+5292,venkys chicken jumbo burger patty 900g,1,23
+5293,venkys chicken popcorn  1 kg,1,108
+5294,venkys salami roll250 g,1,108
+5295,whiskas in pet food,1,23
+5296,white boil rice,1,20
+6138,sunfeast marie light 120g b4g1,1,38
+6239,amul masti spiced butter milk tetra pack 1l,1,32
+6313,sunfeast marie light biscuits(85g pack of 60),1,38
+6424,sunfeast nice (150 g),1,38
+6425,sunfeast marie light biscuits 200 g,1,38
+6503,sunfeast marie light biscuits 300 g,1,38
+6504,sunfeast marie light biscuits(50g pack of 12),1,38
+6510,palmolive sea /orchid hand wash 750ml,1,22
+6511,panasonic in electricals,1,22
+6521,banana - raw,1,22
+6522,banana - robusta,1,22
+6523,banana - stem (each),1,22
+6524,banana flower (each),1,22
+6528,hersheys chocolate milk shake in groceries,1,60
+6535,mtr gulab jamun mix in groceries,1,22
+6536,nachoz in groceries,1,22
+6542,britannia premium bake rusk,1,23
+6543,brinjal long green,1,23
+6544,brinjal - stripped,1,23
+6546,chilli - green,1,23
+6547,coco powder,1,23
+6550,bergner in tasra,1,23
+6564,banana leaf,1,23
+6565,beans - french round,1,23
+6566,banana - yelakki,1,23
+6567,banana - red,1,23
+6575,dog food in pet food,1,23
+6576,regency in groceries,1,26
+6833,sunfeast moms magic biscotti nuts cookies 60 g,1,38
+7071,glenand in pet food,1,38
+7256,grapes green seedless,1,103
+7289,godrej real good yummiez chicken lucknowi seekh kebab 400 g,1,103
+7290,godrej real good yummiez chicken nuggets500 g,1,103
+7326,sunfeast bourbon bliss chocolate cream biscuits 150 g,1,38
+7327,sunfeast strawberry vanilla biscuits  120 g,1,38
+7358,"sunfeast dark fantasy choco fills biscuits (20g, pack of 6)",1,38
+7363,sunfeast farmlite whole wheat oat raisin digestives 150 g,1,38
+7569,drools adult nutrition chicken and egg100 g,1,23
+7624,glenand dog biscuits(700g),1,108
+7713,pineapple in exotic fruits,1,112
+7714,pet cleaning and accessories in grocery,1,112
+7731,gala cleaning and household,1,49
+7738,sunfeast dark fantasy coffee center filled biscuits 75 g,1,38
+7882,godrej real good yummiez chicken nuggets750 g,1,103
+7988,sunfeast orange marie 120g (pack of 5),1,38
+7997,sunfeast cream chocolate vanilla biscuits 120 g,1,65
+8175,fair and lovely menz active fairness cream50 g,1,108
+8176,all out ula power+ slider refill 45 ml,1,51
+8399,godrej real good yummiez veg pizza pockets(340g),1,103
+8481,purepet ocean fish adult cat food100 g,1,49
+8650,sunfeast farmlite whole wheat almond oat digestives 150 g,1,38
+8692,syska dry shaver with 40mins run time (black),1,38
+8766,sunfeast moms magic fruit and milk biscuits ,1,38
+8767,sunfeast  pineapple cream biscuits 41 g,1,38
+8769,sunfeast dark fantasy choco fills biscuits  75 g,1,38
+8771,sunfeast dark fantasy chocolate biscuits 300 g,1,38
+8852,sunfeast moms magicfruit milk cookies(1pc),1,38
+8861,"sunfeast marie light biscuits(85g, pack of 6)",1,38
+8864,utensil cleaner in groceries,1,38
+8865,sunfeast snacky salted 64g,1,38
+8866,venky chicken hot dog  400 g,1,38
+8880,sunfeast glucose biscuits250 g,1,38
+8881,"sunfeast hifi butter cookies(40g, pack of 144)",1,38
+9073,godrej real good yummiez garlic fingers chicken 400 g,1,103
+9074,godrej real good yummiez pepper and herb sausages250 g,1,103
+9089,lavie hder695238m3 wodehouse ew tote-plastic handbag,1,41
+9309,sunfeast dark fantacy chocomeltz  150 g,1,38
+9516,sunfeast  multigrains digestives1 kg,1,38
+9517,sunfeast farmlite sugar digestives 100 g,1,38
+9518,sunfeast glucose biscuits(128g pack of 6),1,38
+9571,sunfeast bounce twist chocolate cream biscuits(41g),1,38
+9610,kims egg noodles 450 g,1,108
+9616,tmc fwcb!ylang and argancb!100 ml,1,38
+9642,venkys chicken cocktail sausages 500 g,1,38
+9643,sunfeast pineapple cream biscuits,1,38
+9693,ogio by callaway car accessories,1,108
+9714,sunfeast chocolate center filled biscuits50 g,1,38
+9749,sunfeast dark fantasy biscuits 25g ,1,38
+9770,"sunfeast moms magic butter cookies(75g, pack of 6)",1,38
+9922,garnier color naturals crcb(me hair color,1,48
+9938,eveready in electricals,1,68
+10117,sunfeast marie light vita 75g (pack of 5),1,38
+10216,herbs -lemon grass in fresh leafy vegetables,1,103
+10277,sunfeast orange cream biscuits 84g ,1,38
+10278,sunfeast bounce tangy orange cream biscuits(41g pack of 12),1,38
+10279,sunfeast bounce milk 39gpk12,1,38
+10280,sunfeast cream strawberry vanilla biscuits,1,38
+10282,sunfeast bounce milk 82g pk12,1,38
+10283,sunfeast bounce tangy orange cream biscuits 84g,1,38
+10329,hapilo  in groceries,1,103
+10406,tmc in personal care,1,38
+10407,tmc scrub lemngrs chrcl 100g,1,38
+10501,drools in pet food,1,55
+10502,st. ives apricot scrub 170 gm,1,55
+10515,sunfeast dark fantasy luxuria choco fills biscuits  150 g,1,38
+10692,sweet pumpkin in fresh vegetables,1,38
+10925,signoraware cute container (set/4),1,55
+11098,sunfeast dark fantasy yumfills cake gift pack(414g),1,38
+11126,sunfeast hifi butter biscuits (38g pack of 12),1,38
+11146,sunfeast bounce dream cream butter scotch biscuits 120 g,1,38
+11171,"sunfeast biscuits, nice, 150g pouch (pack of 6)",1,111
+11367,venkys kheema250 g,1,23
+11411,sunfeast glucose biscuits 128 g ( pack of 48),1,38
+11412,sunfeast dark fantasy vanilla cream biscuits 100 g,1,38
+11418,purepet adult meat and rice dog food(10 kg),1,49
+11432,sunfeast bounce tangy orange cream biscuits(84g pack of 12),1,38
+11440,sunfeast orange marie 120g (pack of 50),1,38
+11441,trikaya thai bird chilli in fresh vegetables,1,38
+11443,venkys chicken and cheese nuggets 500 g,1,38
+11444,sunfeast chocolate cream biscuits 84g ,1,38
+11555,venkys chicken nuggets 1 kg,1,59
+11556,venkys chicken sausages500 g,1,59
+11649,sunfeast chocolate cream biscuits 82 g,1,38
+11650,sunfeast marie light oats  120 g,1,38
+11674,sunfeast cream chocolate vanilla biscuits,1,49
+11696,parachute soft touch in body lotion,1,45
+11738,panasonic metal aa1 pc,1,45
+11847,sunfeast dark fantasy chocolte filled biscuits 300 g,1,38
+11864,pedigree in pet food,1,45
+11889,breakfast cerals in groceries,1,49
+11944,annapurna farm fresh aata in groceries,1,32
+11981,mosquito repellents in groceries,1,51
+11983,aro mop refill,1,35
+11989,panasonic gold plus aa battery10 pc,1,22
+12131,lavie cassi ladies handbag,1,118
+12346,water - melon,1,22
+12400,maxo mosquito killer in cleaning and household,1,24
+12419,covid test kit,1,107
+12421,cherry in fresh,1,141
+12424,mango neelam in fresh,1,22
+12587,dark chocklate in dairy,1,27
+12640,bombay face sheet mask25g,1,74
+12692,ogio by callaway caps,1,49
+12693,ponds men energy bright fw 50g,1,49
+12698,kitchen cleaner in groceries,1,39
+12704,cranberry sliced in groceries,1,25
+14084,nutty gritties california walnut kernels 200 g,1,26

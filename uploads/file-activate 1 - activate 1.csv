@@ -1,0 +1,5 @@
+nothing,id,store_id,cover,name,images,original_price,sell_price,discount,kind,cate_id,sub_cate_id,in_home,is_single,have_gram,gram,have_kg,kg,have_pcs,pcs,have_liter,liter,have_ml,ml,descriptions,key_features,disclaimer,exp_date,type_of,in_stoke,rating,total_rating,status,in_offer,variations_types,size,tax_class,tags,hsn_code
+0,421400,49,421400.jpg,Hasiru Manglore Idli Batter 1 Kg,"["""","""","""","""",""""]",85,85,0,1,5,39,1,0,0,0,1,1,0,0,0,0,0,0,,,,20/12/2050,0,1,5,4,1,0,[],0,18,876,2106
+0,271205,49,271205.jpg,Id Idli  Dosa Batter 1 kg,"[""271205.jpg"",""271205-1.jpg"",""271205-2.jpg"",""271205-3.jpg"","" "",]",75,75,0,1,5,39,1,0,0,0,1,1,0,0,0,0,0,0,,,,20/12/2050,0,1,5,4,1,0,[],0,18,876,2106
+0,294904,49,294904.jpg,Id Idli and Dosa Batter 2 kg,"[""294904.jpg"",""294904-1.jpg"",""294904-2.jpg"",""294904-3.jpg"","" "",]",140,140,0,1,5,39,1,0,0,0,1,2,0,0,0,0,0,0,,,,20/12/2050,0,1,5,4,1,0,[],0,18,876,2106
+0,169055,49,169055.jpg,Sri Bhagyalakshmi Thick Rice Flakes 500 g,"[""169055.jpg"",""169055-1.jpg"",""169055-2.jpg"",""169055-3.jpg"","" "",]",34,31,21,1,2,24,0,0,1,500,0,0,0,0,0,0,0,0,,,,20/12/2050,0,1,5,4,1,0,[],0,5,6205|430,1006

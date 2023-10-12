@@ -1,0 +1,95 @@
+id,name,cover,status,cate_id
+20,All Purpose Cleaners,AllPurposeCleaners.jpg,1,7
+21,Exotic Fruits & Veggies,ExoticFruitsVeggies.jpg,0,1
+22,Fresh Fruits,image002.jpg,1,1
+23,Fresh Vegetables,FreshVegetables.jpg,1,1
+24,"Atta, Flours & Sooji",AttaFloursSooji.jpg,1,2
+25,Dals & Pulses,DalsPulses.jpg,1,2
+26,Dry Fruits,DryFruits.jpg,1,2
+27,Masalas & Spices,MasalaSpices.jpg,1,2
+28,"Salt, Sugar & Jaggery",SaltSugarJaggery.jpg,1,2
+29,Breads & Buns,BreadsBuns.jpg,1,3
+30,Cakes & Pastries,CakesPastries.jpg,1,3
+31,"Cookies, Rusk & Khari",CookiesRuskKhari.jpg,1,3
+32,Dairy,Dairy.jpg,1,3
+33,Ice Creams & Desserts,IceCreamDesserts.jpg,1,3
+34,Energy & Soft Drinks,EnergySoftDrinks.jpg,1,4
+35,Fruit Juices & Drinks,FruitjuicesDrinks.jpg,1,4
+36,Tea,Tea.jpg,1,4
+37,Water,Water.jpg,1,4
+38,Biscuits & Cookies,BiscuitsCookies.jpg,1,5
+39,Breakfast Cereals,BreakfastCereals.jpg,1,5
+40,Chocolates & Candies,ChocolatesCandies.jpg,1,5
+41,"Noodle, Pasta, Vermicelli",NoodlePastaVermicelli.jpg,1,5
+42,Pickles & Chutney,PicklesChutney.jpg,1,5
+43,Snacks & Namkeen,SnacksNamkeen.jpg,1,5
+44,"Spreads, Sauces, Ketchup",SpreadsSaucesKetchup.jpg,1,5
+45,Bath & Hand Wash,BathHandWash.jpg,1,6
+46,Feminine Hygiene,FeminineHygiene.jpg,1,6
+47,Fragrances & Deos,FragrancesDeos.jpg,1,6
+48,Hair Care,HairCare.jpg,1,6
+49,Skin Care,SkinCare.jpg,1,6
+50,Detergents & Dishwash,DetergentsDishwash.jpg,1,7
+51,Freshners & Repellents,FreshnersRepellents.jpg,1,7
+52,"Mops, Brushes & Scrubs",MopsBrushesScrubs.jpg,1,7
+53,Pooja Needs,PoojaNeeds.jpg,1,7
+55,Pet Food & Accessories,PetfoodsAccessories.jpg,1,8
+56,Eggs,Eggs.jpg,0,9
+57,Fish & Seafood,FishSeaFoods.jpg,1,9
+58,Mutton & Chicken,MuttonChicken.jpg,1,9
+59,"Sausages, Bacon & Salami",SausagesBeconSalami.jpg,1,9
+60,Cooking & Baking Needs,CookingBakingNeeds.jpg,1,10
+61,Oils & Vinegar,OilsVinegar.jpg,1,10
+62,Tinned & Processed Food,TinnedProcessedFood.jpg,1,10
+63,Baby Bath & Hygiene,BabyBathHygiene.jpg,1,11
+64,Baby Food & Formula,BabyFoodFormula.jpg,1,11
+65,Diapers & Wipes,DiapersWipes.jpg,1,11
+66,Feeding & Nursing,FeedingNursing.jpg,1,11
+67,Appliances,Appliances.jpg,1,12
+68,Electronics ,Electronics.jpg,0,12
+69,Power Tools,PowerTools.jpg,1,12
+70,Perfumes,Perfumes.jpg,1,13
+71,Luggages,Luggages.jpg,1,14
+72,Bedding & Linen,BeddingLinen.jpg,1,15
+73,Dining,Dining.jpg,1,15
+74,Kitchen ,Kitchen.jpg,1,15
+75,Rice,Rice.jpg,1,2
+97,Leafy Vegetables,LeafyVegetables.jpg,0,1
+98,coffee,Coffee.jpg,1,4
+99,Health Drinks and Supplements,HealthdrinksandSupplements.jpg,1,4
+101,Ready To Cook and Eat,Readytocookandeat.jpg,1,5
+102,Packed Sweets,PackedSweets.jpg,1,5
+103,Frozen Snacks,FrozenSnacks.jpg,1,5
+104,Frozen Vegetables,FrozenVegetables.jpg,1,5
+105,Everyday Medicine,EverydayMedicine.jpg,0,6
+106,Makeup ,Makeup.jpg,1,6
+107,Health & Medicine,HealthMedicine.jpg,1,6
+108,Men's Grooming,MenGrooming.jpg,1,6
+109,Oral Care,OralCare.jpg,1,6
+111,Kitchen & Accessories,KitchenAccessories.jpg,1,8
+112,Battery & Electrical,BatteryElectrical.jpg,1,8
+114,Disposables Garbage Bags,DisposableGarbageBags.jpg,1,7
+115,Car & Shoe Care,CarsShoeCare.jpg,0,7
+116,Stationery,Stationary.jpg,1,7
+118,Handbags,Handbag.jpg,1,14
+119,Shoulder Bags,ShoulderBags.jpg,1,14
+120,School Bags,Schoolbags.jpg,0,14
+121,Laptop Bag,LaptopBag.jpg,1,14
+122,Briefcase,Briefcase.jpg,1,14
+123,Travel Accessories,TravelAccessories.jpg,1,14
+124,Accessories,Accessories.jpg,1,16
+125,Golf,Golf.jpg,1,16
+126,Toys & Games,ToysGames.jpg,0,11
+127,Watches,Watches.jpg,1,13
+128,Caps,Caps.jpg,0,13
+129,Wallets,Wallets.jpg,0,13
+130,Socks,Socks.jpg,0,13
+131,Mens Grooming ,MensGrooming.jpg,1,13
+132,Womens Grooming,WomensGrooming.jpg,1,13
+133,mask,mask.jpg,1,13
+134,Gift Set,GiftSet.jpg,0,13
+135,Colours & Sweets,holicolors.jpeg,1,17
+136,Pichkari,"pichkari.jpeg
+",1,17
+139,Summer Fruits & Vegetable,"Summerfruits.jpg
+",0,1

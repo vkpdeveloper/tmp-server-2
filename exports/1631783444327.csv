@@ -1,0 +1,892 @@
+id,brand_name,status
+1,1 To 3,1
+2,24 Mantra,1
+3,3 Ply,1
+4,3 Roses,1
+5,7 Up,1
+6,A 1,1
+7,A G,1
+8,Aachi,1
+9,Aashirvaad,1
+10,Act II,1
+11,Adiction,1
+12,Adicto,1
+13,Adidas,1
+14,Adithya,1
+15,Again,1
+16,Airwick,1
+17,Akar,1
+18,Alfa,1
+19,All Out,1
+20,Allocacoc,1
+21,Alo Frut,1
+22,Alpenliebe,1
+23,Alu,1
+24,Ambi Pur,1
+25,Ambika,1
+26,AMBRANE,1
+27,American Garden,1
+28,American Tourister,1
+29,Amrus,1
+30,Amrutanjan,1
+31,Amul,1
+32,Amwel,1
+33,Anagha Palm Jyothi,1
+34,Anandam,1
+35,Anchor,1
+36,Angel,1
+37,Anil,1
+38,Annapurna,1
+39,Appy Fizz,1
+40,Apsara,1
+41,Aqua,1
+42,Aquafina,1
+43,Aquaguard,1
+44,Ariel,1
+45,Arjun,1
+46,Aro,1
+47,As Simple As Possible,1
+48,ASAL,1
+49,ASAP,1
+50,Ats,1
+51,Auqasure,1
+52,Avis,1
+53,Axe,1
+54,Azad,1
+55,Azzaro,1
+56,B Natural,1
+57,Bacto-V,1
+58,Baggrys,1
+59,Baidyanath,1
+60,Bajaj,1
+61,Baker Street,1
+62,Bambino,1
+63,Band-Aid,1
+64,Banjara'S,1
+65,Barbara,1
+66,Baskin Robbins,1
+67,Bata,1
+68,Bauli,1
+69,Bauli Moonfils,1
+70,Bayar,1
+71,Baygon,1
+72,Bblunt,1
+73,Bella,1
+74,Benetton,1
+75,Bentley,1
+76,Bergner,1
+77,Bertolli,1
+78,Best Foods,1
+79,Betty Crocker,1
+80,Bhadang,1
+81,Bhagyalakshmi,1
+82,Bigen,1
+83,Bikano,1
+84,Bindu,1
+85,Bingo,1
+86,Bing-Zun,1
+87,Bio,1
+88,Bio Herbal,1
+89,Biotique,1
+90,Bisleri,1
+91,Black,1
+92,Blue Bird,1
+93,boAt,1
+94,Bombay Mixture,1
+95,Bombay Shaving Comapany,1
+96,Boomer,1
+97,Borges,1
+98,Boro Plus,1
+99,Bosch,1
+100,Bounty,1
+101,Bournville,1
+102,Brewhouse,1
+103,Brit Rollyo,1
+104,Britannia,1
+105,Briyas,1
+106,Brooke Bond 3 Roses,1
+107,Brown & Polson,1
+108,Bru,1
+109,Brut,1
+110,Brylcreem,1
+111,Bsc,1
+112,Bsf,1
+113,Burberry,1
+114,Butterfly,1
+115,Bvlgari,1
+116,Cacheral,1
+117,Cadbury,1
+118,Callaway,1
+119,Calvin Klein,1
+120,Camay,1
+121,Candyman,1
+122,Carolina,1
+123,Carolina Herrea,1
+124,CAROLINA HERRERA,1
+125,CARTIER,1
+126,Catch,1
+127,Cavin,1
+128,Cavin'S,1
+129,Center Fruit,1
+130,Cesar,1
+131,Cetaphil,1
+132,Chandrika,1
+133,Chef'S Basket,1
+134,Cherry Blossom,1
+135,Chicco,1
+136,Chik,1
+137,Chings,1
+138,Chitale,1
+139,Chloe,1
+140,Choki Choki,1
+141,Chokichoki,1
+142,Chuangfa Toys,1
+143,Chupa-Chup,1
+144,Cinthol,1
+145,Ciphands,1
+146,Cipla,1
+147,Clean &Clear,1
+148,Clear,1
+149,Clinic Plus,1
+150,Clinique Happy,1
+151,Close Up,1
+152,Coca Cola,1
+153,COCO,1
+154,Coco Soul,1
+155,Coco-Cado,1
+156,Coffee Joy,1
+157,Coke,1
+158,Colagte,1
+159,Colgate,1
+160,Colin,1
+161,Comfort,1
+162,Complan,1
+163,Continental,1
+164,Cothas,1
+165,Cream Pot,1
+166,Credar,1
+167,Cremica,1
+168,Crew,1
+169,Crompton,1
+170,Cycle,1
+171,Cycle Pure Agarbathies,1
+172,Daadi,1
+173,Daawat,1
+174,Dabee,1
+175,Dabur,1
+176,Dairy Tales,1
+177,Dalda,1
+178,Danram,1
+179,Date Crown,1
+180,Daurala,1
+181,DAVIDOFF,1
+182,Debelle,1
+183,Deepam,1
+184,Del Monte,1
+185,Del monte ,1
+186,Desi,1
+187,Dettol,1
+188,Dettol ,1
+189,Dexolac,1
+190,Dhara,1
+191,Diet,1
+192,Diet Food,1
+193,Dilbahar,1
+194,Dilbaharas,1
+195,Dirty,1
+196,Dizzle,1
+197,Dlecta,1
+198,Dnv,1
+199,Dodla,1
+200,Dolce &Amp; Gabbana,1
+201,DOLCE and GABBANA,1
+202,Domex,1
+203,Doritos,1
+204,Double Horse,1
+205,Dove,1
+206,Dreamery,1
+207,Dreamry,1
+208,Drools,1
+209,Ds,1
+210,Dukes,1
+211,Dukes ,1
+212,Dunhill,1
+213,Duracell,1
+214,Durex,1
+215,Dutchie,1
+216,Eastern,1
+217,Ecolink,1
+218,Ecovalley,1
+219,Elie,1
+220,Elite,1
+221,Elizabeth Ardern,1
+222,ELIZEBETH ARDEN,1
+223,Elle18,1
+224,Emami,1
+225,Emperor,1
+226,Engage,1
+227,Eno,1
+228,Ensure,1
+229,Epigamia,1
+230,Estee Lauder,1
+231,Eti,1
+232,Eureka Forbes,1
+233,Eva,1
+234,Eveready,1
+235,Everest,1
+236,Everyuth,1
+237,Exo,1
+238,Fabelle,1
+239,Fair & Lovely,1
+240,Fair and Lovely,1
+241,Fairever,1
+242,Fanta,1
+243,Farex,1
+244,Farm Fresh,1
+245,Fcuk,1
+246,Fem,1
+247,Femsafe,1
+248,FERRARI,1
+249,Ferrero,1
+250,Ferrerorocher,1
+251,Fiama,1
+252,Figaro,1
+253,Fine Dreaming,1
+254,Fine Food,1
+255,Fine Life,1
+256,Fogg,1
+257,Fortune,1
+258,Freedom,1
+259,Freedom Refind,1
+260,Fresh Veg,1
+261,Frooti,1
+262,FRYLO,1
+263,Fun Foods,1
+264,Funfoods,1
+265,Gadre,1
+266,Gaia,1
+267,Gala,1
+268,Galaxy,1
+269,Ganesh,1
+270,Garden,1
+271,Garnier,1
+272,Germisol,1
+273,Giffy,1
+274,Gillette,1
+275,Gits,1
+276,Givenchy,1
+277,Glade,1
+278,Glenand,1
+279,G'Life,1
+280,Glucon D,1
+281,Glucon-D,1
+282,Glucovita,1
+283,Go,1
+284,Go Choco,1
+285,Go Travel,1
+286,Godrej,1
+287,Godrej Ezee,1
+288,Gold Winner,1
+289,Golddrops,1
+290,Golden Bansi,1
+291,Golden Crown,1
+292,Good Knight,1
+293,Goodlife,1
+294,Google,1
+295,Gowardhan,1
+296,Grb,1
+297,Grey,1
+298,Gts,1
+299,Gucci,1
+300,GUESS,1
+301,Habanero ,1
+302,Hair & Care,1
+303,Hajmola,1
+304,Haldirams,1
+305,Halls,1
+306,Halo,1
+307,Hamam,1
+308,Hapillo,1
+309,Happy Milk,1
+310,Happydent,1
+311,Harpic,1
+312,Hasiru,1
+313,Havells,1
+314,Havmor,1
+315,He,1
+316,Head & Shoulders,1
+317,Heineken,1
+318,Heinz,1
+319,Hem,1
+320,Henko,1
+321,Heritage,1
+322,Hershey,1
+323,Hersheys,1
+324,Hershey's,1
+325,Himalaya,1
+326,Himani,1
+327,Hit,1
+328,Hommade,1
+329,Honeywell,1
+330,Honitus,1
+331,Horeca Select,1
+332,Horlicks,1
+333,HS,1
+334,Hudson,1
+335,HUGO BOSS,1
+336,Hygienix,1
+337,Ice Special,1
+338,Id,1
+339,Idhayam,1
+340,India Gate,1
+341,India Sweet house,1
+342,Indian,1
+343,Indica,1
+344,Indulekha,1
+345,Iodex,1
+346,I-Pill,1
+347,ISSEY MIYAK,1
+348,Issey Miyake,1
+349,Itoys,1
+350,I-Toys,1
+351,Iyer'S,1
+352,Jabson,1
+353,Jabsons,1
+354,JAGUAR,1
+355,Jbl,1
+356,Jelimals,1
+357,Jennifer Lopez(J.Lo),1
+358,Jersey,1
+359,Jimmy,1
+360,Jivo,1
+361,Jiwa,1
+362,Jockey,1
+363,Johnson'S,1
+364,Joop,1
+365,Joy,1
+366,Jpg,1
+367,Kalasa,1
+368,Kamasutra,1
+369,Karachi,1
+370,Karachi'S,1
+371,Karthika,1
+372,Kaya,1
+373,Kaytra,1
+374,KeepSafe,1
+375,Keerthi Kitchen Special,1
+376,Kelloggs,1
+377,Kenstar,1
+378,Kenzo,1
+379,Kesar Gold,1
+380,Kesari,1
+381,Kesh King,1
+382,Keya,1
+383,Kim,1
+384,Kims,1
+385,Kinder ,1
+386,Kinder Joy,1
+387,Kinely,1
+388,KINGFISHER,1
+389,Kingston,1
+390,Kinley,1
+391,Kiran,1
+392,Kissan,1
+393,Kite,1
+394,Kiwi,1
+395,Klf,1
+396,Knorr,1
+397,Kohinoor,1
+398,Koka,1
+399,Kopiko,1
+400,Krack,1
+401,Krauss,1
+402,Kurkere,1
+403,Kurkure,1
+404,Kwality,1
+405,Kylo,1
+406,L.G.,1
+407,LACOSTE,1
+408,Lactel,1
+409,Lacto Calamine,1
+410,Lactocalamine,1
+411,Lactogen,1
+412,Lakme,1
+413,Lal,1
+414,Lalpan,1
+415,Lancome,1
+416,Lanvin,1
+417,Laura Di Sarpi,1
+418,Lavie,1
+419,Lawrence,1
+420,Laxmi Bhog,1
+421,LAYER'R,1
+422,Lays,1
+423,Lay'S,1
+424,Leather Land,1
+425,Lehar,1
+426,Lever Ayush,1
+427,Levista,1
+428,Life buoy ,1
+429,Lifebuoy,1
+430,Lijjat,1
+431,Limca,1
+432,Lion,1
+433,Lipton,1
+434,Liril,1
+435,Listerine,1
+436,Lite,1
+437,Livon,1
+438,Lizol,1
+439,Lomani,1
+440,London Dairy,1
+441,Loreal,1
+442,L'Oreal,1
+443,Loreal Paris,1
+444,Lotte,1
+445,Lotus,1
+446,Luvit,1
+447,Lux,1
+448,Maaza,1
+449,Madhuri,1
+450,Maggi,1
+451,Magix,1
+452,Maiyas,1
+453,Makino,1
+454,Malkist,1
+455,Mamypoko,1
+456,Mangaldeep,1
+457,Mangaram,1
+458,Mangharam,1
+459,Mango Bite,1
+460,Mango Nectar,1
+461,Manna,1
+462,Marc,1
+463,Margo,1
+464,Marshall,1
+465,Marvel,1
+466,Masti,1
+467,Maxo,1
+468,Maya,1
+469,Maybelline,1
+470,Mccain,1
+471,Mcvities,1
+472,Mcvitie'S,1
+473,Mdh,1
+474,Meal Time,1
+475,Mediker,1
+476,Medimix,1
+477,Meera,1
+478,Melody,1
+479,Meswak,1
+480,Metro,1
+481,Metro Chef,1
+482,Milano,1
+483,Milk Shakti,1
+484,Milklane,1
+485,Milkmaid,1
+486,Milky Bar,1
+487,Milky Mist,1
+488,Milkybar,1
+489,Minute Maid,1
+490,Mirabelle,1
+491,Mirinda,1
+492,Modern,1
+493,Moksh,1
+494,Monaco,1
+495,Monginis,1
+496,MONT BLANC,1
+497,Montale,1
+498,Moov,1
+499,Morisons,1
+500,Mortein,1
+501,Morton,1
+502,Mother Dairy,1
+503,Mothers Recipe,1
+504,Mother'S Recipe,1
+505,Mountain Dew,1
+506,Mr Muscle,1
+507,Mr.Muscle,1
+508,Mr.White,1
+509,Mrs Food Rite,1
+510,Mrs Foodrite,1
+511,Mtr,1
+512,Muzafati,1
+513,Mysore Sandal,1
+514,Namdhari,1
+515,Namjai Red,1
+516,Nandini,1
+517,Nandini Good Life,1
+518,Naturally Yours,1
+519,Nature Fresh,1
+520,Natures First Veggies,1
+521,Nautica,1
+522,Navratna,1
+523,Neko,1
+524,Neo,1
+525,Nerwan,1
+526,Nescafe,1
+527,Nestea,1
+528,Nestle,1
+529,Nestle ,1
+530,Nestle Nan,1
+531,Nestum,1
+532,NIC Natural Ice Cream,1
+533,Nice,1
+534,Nicotex,1
+535,Nimwash,1
+536,Nimyle ,1
+537,Nina,1
+538,Nirlep,1
+539,Nirmal,1
+540,Nisargalaya,1
+541,Nissin,1
+542,Nivea,1
+543,No Brand,1
+544,No Rinse,1
+545,Nutraj,1
+546,Nutralite,1
+547,Nutty Gritties,1
+548,Nyle,1
+549,Oath 4 Earth,1
+550,Odomos,1
+551,Odonil,1
+552,Ogio By Callaway,1
+553,Olay,1
+554,Old Spice,1
+555,Oleev,1
+556,Oleev Pomace Oil,1
+557,Omkar,1
+558,On1y,1
+559,Oral-B,1
+560,Organic Tattva,1
+561,Origami,1
+562,ORION Choco Pie,1
+563,Oziva,1
+564,Paco,1
+565,Palmo,1
+566,Palmolive,1
+567,Palmpure,1
+568,Pampers,1
+569,Panasonic,1
+570,Pantene,1
+571,Paper Boat,1
+572,Parachute,1
+573,Paree,1
+574,Parivar,1
+575,Pariz,1
+576,Park,1
+577,Park Avenue,1
+578,Parle,1
+579,Parle ,1
+580,Parle Happy Happy,1
+581,Parle Hide and seak,1
+582,Parle-G,1
+583,Parry'S White,1
+584,Patanjali,1
+585,Peacock,1
+586,Pears,1
+587,Pedia Sure,1
+588,Pedigree,1
+589,Pee Safe,1
+590,Peppy,1
+591,Pepsi,1
+592,Pepsodent,1
+593,Philips,1
+594,Pidilite Rangeela,1
+595,Pigeon,1
+596,Pillsbury,1
+597,Pimpom,1
+598,Pitambari,1
+599,Pitambri,1
+600,Playboy,1
+601,Plum,1
+602,Police,1
+603,Ponds,1
+604,Pond'S,1
+605,Poppins,1
+606,Prabhuji,1
+607,PRADA,1
+608,Precious,1
+609,Preethi,1
+610,Premie,1
+611,Premier,1
+612,Premium,1
+613,Premium Sona Masori,1
+614,President,1
+615,Prestige,1
+616,Pril,1
+617,Pringles,1
+618,Priya,1
+619,Pro,1
+620,Pro Nature,1
+621,Pro Organic,1
+622,Protekt,1
+623,Protinex,1
+624,Pudinhara,1
+625,Puja,1
+626,Pulse,1
+627,Pulse Oximeters,1
+628,Purepet,1
+629,Puro,1
+630,Qraa,1
+631,Quaker,1
+632,Radox,1
+633,Rajdhani,1
+634,Ramen,1
+635,RATNAS,1
+636,Ravi,1
+637,Raw,1
+638,Real,1
+639,Real Thai,1
+640,Rebalanz,1
+641,Red Bull,1
+642,Red Label ,1
+643,Regency,1
+644,Relispray ,1
+645,Revive,1
+646,Revive ,1
+647,Revlon,1
+648,Rexo,1
+649,Rexona,1
+650,Ribbon,1
+651,Rich'S,1
+652,Rin,1
+653,Rioba,1
+654,Roasta,1
+655,Roasty Tasty,1
+656,Robin,1
+657,Ruby,1
+658,Ruchi,1
+659,Ruchi Gold,1
+660,Sabena,1
+661,Sadguru,1
+662,Safal,1
+663,Safal Frozen,1
+664,Safewash,1
+665,Saffola,1
+666,Sakthi,1
+667,Sakthi ,1
+668,Salvatore,1
+669,Samrat,1
+670,Sams,1
+671,Samsonite,1
+672,Sandisk,1
+673,Sanifresh,1
+674,Sanifresh ,1
+675,Sanityplus,1
+676,Santoor,1
+677,Saurabh,1
+678,Savlon,1
+679,Schweppes,1
+680,Scoatch Brite,1
+681,Scotch Brite,1
+682,Scotch-Brite,1
+683,Scott,1
+684,Sebamed,1
+685,Sennheiser,1
+686,Sensodyne,1
+687,Set Wet,1
+688,Sharbat,1
+689,Shareat,1
+690,Shiva Lite,1
+691,Shubhkart,1
+692,Signoraware,1
+693,Silver Coin,1
+694,Similac,1
+695,Simply Good,1
+696,Skinn,1
+697,Skore,1
+698,Slice,1
+699,Snickers,1
+700,So Good,1
+701,Society,1
+702,Sofit,1
+703,Softouch,1
+704,Sofy,1
+705,Sony,1
+706,Soulfull,1
+707,Soundcore,1
+708,Spinz,1
+709,Spontex,1
+710,Sprig,1
+711,Sprite,1
+712,Spyke,1
+713,Sree Bell,1
+714,Sri Bhagyalakshmi,1
+715,Sri Bharani,1
+716,St Ives,1
+717,ST. Ives,1
+718,Staeta,1
+719,Status,1
+720,Stayfree,1
+721,Sterinol,1
+722,Stilus ,1
+723,Streax,1
+724,Sufeast,1
+725,Sugarfree,1
+726,Suhana,1
+727,Sujata,1
+728,Sumeru,1
+729,Sun Premium,1
+730,Sundrop,1
+731,Sunfeast,1
+732,Sunpure,1
+733,Sunrich,1
+734,Sunsilk,1
+735,Sunsilk ,1
+736,Super Max,1
+737,Super Vasmol,1
+738,Superlite,1
+739,Supermax,1
+740,Super-Max,1
+741,Surf Excel,1
+742,Surya,1
+743,Svt,1
+744,Swiss Gear,1
+745,Switz,1
+746,Syska,1
+747,Tabasco,1
+748,Taj Mahal,1
+749,Tang,1
+750,Taski,1
+751,Taski R6,1
+752,Tata,1
+753,Tea Veda,1
+754,Te-A-Me,1
+755,Tefal,1
+756,Terre D&#039; Hermes,1
+757,Tetley,1
+758,The Laughing Cow,1
+759,Thirumala,1
+760,Thums Up,1
+761,Tic Tac,1
+762,Tide,1
+763,TMC,1
+764,TOMFORD,1
+765,Tommy,1
+766,TOMMY ,1
+767,Tong Garden,1
+768,Too Yumm,1
+769,Tooty,1
+770,Tooyumm,1
+771,Toyo,1
+772,Toys Box,1
+773,Tresemme,1
+774,Tri-Activ,1
+775,Tropicana,1
+776,Twinings,1
+777,Typhoo,1
+778,Udv,1
+779,Ujala,1
+780,Ultra,1
+781,Unibic,1
+782,Usha,1
+783,UTS,1
+784,Vanish,1
+785,Vaseline,1
+786,Veeba,1
+787,Veet,1
+788,Vega,1
+789,Veggie Clean,1
+790,Venkeys,1
+791,Venky'S,1
+792,Versace,1
+793,Vicco,1
+794,Vicks,1
+795,Victorinox,1
+796,Vijay,1
+797,Vim,1
+798,Viva,1
+799,Vivatta,1
+800,Vivel,1
+801,Vivo,1
+802,Vlcc,1
+803,Vogue,1
+804,Wagh Bakri,1
+805,Weikfield,1
+806,Welspun,1
+807,Western Digital,1
+808,Wheel,1
+809,Whirlpool,1
+810,Whiskas,1
+811,Whisper,1
+812,Wilkinson,1
+813,Wingreens,1
+814,Winkies,1
+815,Woh Hup,1
+816,Wonderize,1
+817,Wrigleys,1
+818,Wypall,1
+819,Xtra,1
+820,Yakult,1
+821,Yan Yan,1
+822,Yardley,1
+823,Yellow Diamond,1
+824,Yippee,1
+825,Ylg,1
+826,Yoga Bar,1
+827,Yves,1
+828,Z,1
+829,Zandu,1
+830,Zeeba,1
+831,Zeeba Dubar,1
+832,Zeeba Tibar ,1
+833,Zephyr,1
+834,Zephyr Mechanix,1
+835,Zihwa,1
+836,Zip,1
+837,Fresh Nonveg,1
+838,Amulya,1
+839,Top Ramen,1
+840,Wai Wai,1
+841,Inchi,1
+842,M&M'S,1
+843,Gone Mad,1
+844,Febelle,1
+845,Chocodate,1
+846,Mars Bounty,1
+847,Fresh Meat & Chiken,1
+848,Sea Foods,1
+849,Fresh Meat,1
+850,Fresh Chiken,1
+851,Fresh Fish,1
+852,Loose Rice & Dals & Spices,1
+853,Sri Lakshmi Srinivasa,1
+854,Riddi Siddi,1
+855,Karishma,1
+856,Kolhu Natural,1
+857,Licious,1
+858,Micks,1
+859,Rich Feast,1
+860,Mother'S Recipe,1
+862,Nutrela,1
+863,4700Bc,1
+864,Boost,1
+865,Frustar,1
+866,Hatti Kaapi,1
+867,Juscoco,1
+868,Kitchens,1
+869,Naturals,1
+870,Open Secret,1
+871,Organic Tattwa,1
+872,Pipo,1
+873,Rasna,1
+874,Savalon,1
+875,Sipon,1
+876,Skinstone,1
+877,Tendo,1
+878,Varamahalakshmi,1
+879,Beardo,1
+880,Secret,1
+881,Dermi Cool,1
+882,Pure Heart,1
+883,St.Dalfour,1
+884,Apis,1
+885,HP,1
+886,Naagin indian,1
+887,Wilsons,1
+888,Who hup,1
+889,ITC,1
+890,Safoo,1
+891,Lavie Handbag Offer,1
+898,Vijayanagar,1

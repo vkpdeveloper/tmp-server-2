@@ -1,0 +1,22 @@
+id,name,cover,category_type,status
+1,Fruit/Vegetables,fruitsvegetables2.png,inside,1
+2,Food Grains,foodgrainsoilmasala.jpg,inside,1
+3,Bakery,bakery2.png,inside,1
+4,Beverages,beverages2.png,inside,1
+5,Snacks,snacks2.png,inside,1
+6,Beauty & Hygiene,beauty2.png,inside,1
+7,Cleaning & Household,cleaning2.png,inside,1
+8,"Kitchen, Garden & Pets",kitchengarden2.jpg,inside,1
+9,Meat,eggmeat2.jpg,inside,1
+10,Gourmet,gourmet2.png,inside,1
+11,Baby,babycare2.png,inside,1
+12,Electronics,electronics2.png,both,1
+13,Fashion,perfume2.png,both,1
+14,Luggages,luggage2.jpg,both,1
+15,Home,homefurnishing2.png,both,1
+16,Sports,sportsfitness2.png,both,1
+17,Holi,holi.png,Inside,0
+18,Diwali,diwali.jpg,inside,0
+140,Cooking Oil,Cooking Oil.jpg,inside,0
+141,Shoe Care,Shoe Care.jpg,inside,0
+142,Offers,Offers.jpg,inside,1

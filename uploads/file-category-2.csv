@@ -1,0 +1,25 @@
+id,name,cover,status,cate_id
+20,All Purpose Cleaners,all purpose cleaners.jpg,1,7
+24,"Atta, Flours & Sooji",atta flours sooji.jpg,1,2
+38,Biscuits & Cookies,biscuits cookies.jpg,1,5
+29,Breads & Buns,breads buns.jpg,1,3
+39,Breakfast Cereals,breakfast cereals.jpg,1,5
+30,Cakes & Pastries,cakes pastries.jpg,1,3
+40,Chocolates & Candies,chocolates candies.jpg,1,5
+31,"Cookies, Rusk & Khari",cookies rusk khari.jpg,1,3
+32,Dairy,dairy.jpg,1,3
+25,Dals & Pulses,dals pulses.jpg,1,2
+26,Dry Fruits,dry fruits.jpg,1,2
+34,Energy & Soft Drinks,energy soft drinks.jpg,1,4
+21,Exotic Fruits & Veggies,exotic fruits veggies.jpg,1,1
+22,Fresh Fruits,fresh fruits.jpg,1,1
+23,Fresh Vegetables,fresh vegetables.jpg,1,1
+35,Fruit Juices & Drinks,fruit juices drinks.jpg,1,4
+33,Ice Creams & Desserts,ice creams desserts.jpg,1,3
+27,Masalas & Spices,masalas spices.jpg,1,2
+41,"Noodle, Pasta, Vermicelli",noodle pasta vermicelli.jpg,1,5
+42,Pickles & Chutney,pickles chutney.jpg,1,5
+28,"Salt, Sugar & Jaggery",salt sugar jaggery.jpg,1,2
+43,Snacks & Namkeen,snacks namkeen.jpg,1,5
+36,"Tea, Coffee",tea.jpg,1,4
+37,Water,water.jpg,1,4

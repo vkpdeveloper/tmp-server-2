@@ -1,0 +1,4 @@
+id,original_price,sell_price,discount,variations_types,stocks,size
+249965,64,58,10,[],1,0
+250528,33,30,10,[],1,0
+250417,39,35,11,1000|500|2000,1,1

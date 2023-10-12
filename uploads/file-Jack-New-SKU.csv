@@ -1,0 +1,5 @@
+nothing,id,store_id,cover,name,images,original_price,sell_price,discount,kind,cate_id,sub_cate_id,in_home,is_single,have_gram,gram,have_kg,kg,have_pcs,pcs,have_liter,liter,have_ml,ml,descriptions,key_features,disclaimer,exp_date,type_of,in_stoke,rating,total_rating,status,in_offer,variations_types,size,tax_class,tags,hsn_code,brand_id
+0,JJPR_WINE_S,46,JJPR_WINE_S.jpeg,JJPR JAQRD SOLID INST POLO-Wine-S,"[""JJPR_WINE_S.jpeg""]",2299,619,74,-1,16,124,1,0,0,0,0,0,1,1,0,0,0,0,,,,20-12-2050,0,1,4,4,1,0,[],0,5,14146|14150|14151,61051020,971
+0,JJPR_WINE_M,46,JJPR_WINE_M.jpeg,JJPR JAQRD SOLID INST POLO-Wine-M,"[""JJPR_WINE_M.jpeg""]",2299,619,74,-1,16,124,1,0,0,0,0,0,1,1,0,0,0,0,,,,20-12-2050,0,1,4,4,1,0,[],0,5,14147|14150|14151,61051020,971
+0,JJPR_WINE_L,46,JJPR_WINE_L.jpeg,JJPR JAQRD SOLID INST POLO-Wine-L,"[""JJPR_WINE_L.jpeg""]",2299,619,74,-1,16,124,1,0,0,0,0,0,1,1,0,0,0,0,,,,20-12-2050,0,1,4,4,1,0,[],0,5,14148|14150|14151,61051020,971
+0,JJPR_WINE_XL,46,JJPR_WINE_XL.jpeg,JJPR JAQRD SOLID INST POLO-Wine-XXL,"[""JJPR_WINE_XL.jpeg""]",2299,619,74,-1,16,124,1,0,0,0,0,0,1,1,0,0,0,0,,,,20-12-2050,0,1,4,4,1,0,[],0,5,14149|14150|14151,61051020,971

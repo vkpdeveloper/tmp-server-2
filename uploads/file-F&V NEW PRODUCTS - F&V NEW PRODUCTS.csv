@@ -1,0 +1,6 @@
+nothing,id,store_id,cover,name,images,original_price,sell_price,discount,kind,cate_id,sub_cate_id,in_home,is_single,have_gram,gram,have_kg,kg,have_pcs,pcs,have_liter,liter,have_ml,ml,descriptions,key_features,disclaimer,exp_date,type_of,in_stoke,rating,total_rating,status,in_offer,variations_types,size,tax_class,tags,hsn_code,brand_id
+0,368288,49,368288.jpg,Cherry (Packed 250 g),"[""368288.jpg"","""","""","""","""",]",109,99,10,1,1,22,0,0,1,250,0,0,0,0,0,0,0,0,,,,20-12-2051,0,1,5,4,1,0,[],0,0,12420,0,260
+0,368277,49,368277.jpg,Dates (Packed 500 g),"[""368277.jpg"","""","""","""","""",]",72,65,10,1,1,26,0,0,1,500,0,0,0,0,0,0,0,0,,,,20-12-2052,0,1,5,4,1,0,[],0,0,12421,0,260
+0,368284,49,368284.jpg,Jamun (Packed 250 g),"[""368284.jpg"","""","""","""","""",]",55,50,10,1,1,22,0,0,1,250,0,0,0,0,0,0,0,0,,,,20-12-2053,0,1,5,4,1,0,[],0,0,12422,0,260
+0,SB0068,49,SB0068.jpg,Dill Leaves  (Appox: 450 g-470 g),"[""SB0068.jpg"","""","""","""","""",]",28,25,10,1,1,23,0,0,0,0,0,0,0,0,0,0,0,0,,,,20-12-2054,0,1,5,4,1,0,[],0,0,12423,0,260
+0,SB0069,49,SB0069.jpg,Mango Neelam,"[""SB0069.jpg"","""","""","""","""",]",66,60,10,1,1,22,0,0,0,0,0,0,0,0,0,0,0,0,,,,20-12-2055,0,1,5,4,1,0,100|500,1,0,12424,0,260

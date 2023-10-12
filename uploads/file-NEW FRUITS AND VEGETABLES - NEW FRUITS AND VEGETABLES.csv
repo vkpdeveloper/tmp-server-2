@@ -1,0 +1,4 @@
+nothing,id,store_id,cover,name,images,original_price,sell_price,discount,kind,cate_id,sub_cate_id,in_home,is_single,have_gram,gram,have_kg,kg,have_pcs,pcs,have_liter,liter,have_ml,ml,descriptions,key_features,disclaimer,exp_date,type_of,in_stoke,rating,total_rating,status,in_offer,variations_types,size,tax_class,tags,hsn_code
+0,405202,49,405202.jpg,Lemon Garss,"[""405202.jpg"","""","""","""","""",]",36,33,10,1,1,97,0,0,0,0,0,0,0,0,0,0,0,0,,,,20-12-2050,0,1,5,4,1,0,1000|500,1,0,11988,0
+0,249885,49,249885.jpg,Orange navel,"[""249885.jpg"","""","""","""","""",]",198,180,10,1,1,22,0,0,0,0,0,0,0,0,0,0,0,0,,,,20-12-2050,0,1,5,4,1,0,1000|500,1,0,11989|125,0
+0,277865,49,277865.jpg,Sweet corn EA,"[""277865.jpg"","""","""","""","""",]",26,24,10,1,1,23,0,0,0,0,0,0,0,0,0,0,0,0,,,,20-12-2050,0,1,5,4,1,0,1000|500,1,0,11990|2,0

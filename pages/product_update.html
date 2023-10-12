@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Import</title>
+</head>
+
+<body>
+    <form method="POST" action="/products/update" enctype="multipart/form-data">
+        <input required id="attachment" name="attachment" type="file" />
+        <label for="name">Name</label>
+        <input id="name" name="name" type="checkbox" />
+         <label for="description">Description</label>
+        <input id="description" name="description" type="checkbox" />
+         <label for="sell_price">Sell Price</label>
+        <input id="sell_price" name="sell_price" type="checkbox" />
+         <label for="original_price">Original Price</label>
+        <input id="original_price" name="original_price" type="checkbox" />
+         <label for="in_stoke">In Stoke</label>
+        <input id="in_stoke" name="in_stoke" type="checkbox" />
+         <label for="variations">Variations</label>
+        <input id="variations" name="variations" type="checkbox" />
+        <button type="submit">Import</button>
+    </form>
+</body>
+
+</html>
